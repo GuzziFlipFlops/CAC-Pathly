@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "open-catalog",
+      "runtimeExecutable": "python3",
+      "port": 8791
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+name: Validate catalog
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check JSON syntax
+        run: |
+          for file in v1/*.json templates/*.json; do
+            python3 -m json.tool "$file" > /dev/null || { echo "Invalid JSON: $file"; exit 1; }
+          done
+
+      - name: Build validator
+        run: xcrun swiftc -O -o "$RUNNER_TEMP/validate" validator/*.swift
+
+      - name: Validate records
+        run: '"$RUNNER_TEMP/validate" v1'

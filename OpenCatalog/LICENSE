@@ -1,0 +1,18 @@
+Pathly Open Catalog
+Copyright (c) 2026 {{AUTHOR}}
+
+The data in this repository (the files in v1/ and templates/) is licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the data for any purpose, including commercially,
+as long as you give appropriate credit ("Pathly Open Catalog", with a link to
+this repository), indicate if changes were made, and do not suggest that the
+authors endorse you or your use.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Names, logos, and trademarks of the organizations listed in the catalog belong
+to their respective owners and are not covered by this license.
+
+The validator source code in validator/ is part of the Pathly app and is
+provided only so contributors can check their changes.

@@ -1,0 +1,2692 @@
+[
+  {
+    "id": "org_000001",
+    "name": "Huntsville-Madison County Public Library",
+    "organization_type": "Library",
+    "website": "https://hmcpl.org",
+    "country": "US",
+    "description": "Huntsville-Madison County Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000002",
+    "name": "University of Alaska Anchorage",
+    "organization_type": "University",
+    "website": "https://www.uaa.alaska.edu",
+    "country": "US",
+    "description": "University of Alaska Anchorage is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000003",
+    "name": "HeatSync Labs",
+    "organization_type": "Nonprofit",
+    "website": "https://www.heatsynclabs.org",
+    "country": "US",
+    "description": "HeatSync Labs is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000004",
+    "name": "Central Arkansas Library System",
+    "organization_type": "Library",
+    "website": "https://cals.org",
+    "country": "US",
+    "description": "Central Arkansas Library System provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000005",
+    "name": "San Diego Public Library",
+    "organization_type": "Library",
+    "website": "https://www.sandiego.gov/public-library",
+    "country": "US",
+    "description": "San Diego Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000006",
+    "name": "Denver Public Library",
+    "organization_type": "Library",
+    "website": "https://www.denverlibrary.org",
+    "country": "US",
+    "description": "Denver Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000007",
+    "name": "Yale University",
+    "organization_type": "University",
+    "website": "https://www.yale.edu",
+    "country": "US",
+    "description": "Yale University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000008",
+    "name": "New Castle County Libraries",
+    "organization_type": "Government",
+    "website": "https://www.newcastlede.gov",
+    "country": "US",
+    "description": "New Castle County Libraries is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000009",
+    "name": "Orange County Library System",
+    "organization_type": "Library",
+    "website": "https://ocls.org",
+    "country": "US",
+    "description": "Orange County Library System provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000010",
+    "name": "Georgia Institute of Technology",
+    "organization_type": "University",
+    "website": "https://www.gatech.edu",
+    "country": "US",
+    "description": "Georgia Institute of Technology is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000011",
+    "name": "University of Hawaii at Manoa",
+    "organization_type": "University",
+    "website": "https://www.hawaii.edu",
+    "country": "US",
+    "description": "University of Hawaii at Manoa is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000012",
+    "name": "Boise State University",
+    "organization_type": "University",
+    "website": "https://www.boisestate.edu",
+    "country": "US",
+    "description": "Boise State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000013",
+    "name": "University of Illinois Urbana-Champaign",
+    "organization_type": "University",
+    "website": "https://illinois.edu",
+    "country": "US",
+    "description": "University of Illinois Urbana-Champaign is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000014",
+    "name": "Purdue University",
+    "organization_type": "University",
+    "website": "https://www.purdue.edu",
+    "country": "US",
+    "description": "Purdue University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000015",
+    "name": "Iowa City Fab Lab",
+    "organization_type": "Nonprofit",
+    "website": "https://icfablab.org",
+    "country": "US",
+    "description": "Iowa City Fab Lab is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000016",
+    "name": "Wichita State University",
+    "organization_type": "University",
+    "website": "https://www.wichita.edu",
+    "country": "US",
+    "description": "Wichita State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000017",
+    "name": "Louisville Free Public Library",
+    "organization_type": "Library",
+    "website": "https://www.lfpl.org",
+    "country": "US",
+    "description": "Louisville Free Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000018",
+    "name": "Delgado Community College",
+    "organization_type": "School",
+    "website": "https://www.dcc.edu",
+    "country": "US",
+    "description": "Delgado Community College is an educational institution associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000019",
+    "name": "University of Maine",
+    "organization_type": "University",
+    "website": "https://umaine.edu",
+    "country": "US",
+    "description": "University of Maine is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000020",
+    "name": "University of Maryland",
+    "organization_type": "University",
+    "website": "https://www.umd.edu",
+    "country": "US",
+    "description": "University of Maryland is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000021",
+    "name": "Cambridge Public Library",
+    "organization_type": "Library",
+    "website": "https://www.cambridgema.gov/cpl",
+    "country": "US",
+    "description": "Cambridge Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000022",
+    "name": "Michigan State University",
+    "organization_type": "University",
+    "website": "https://msu.edu",
+    "country": "US",
+    "description": "Michigan State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000023",
+    "name": "University of Minnesota",
+    "organization_type": "University",
+    "website": "https://umn.edu",
+    "country": "US",
+    "description": "University of Minnesota is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000024",
+    "name": "Mississippi State University",
+    "organization_type": "University",
+    "website": "https://www.msstate.edu",
+    "country": "US",
+    "description": "Mississippi State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000025",
+    "name": "Kansas City Public Library",
+    "organization_type": "Library",
+    "website": "https://kclibrary.org",
+    "country": "US",
+    "description": "Kansas City Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000026",
+    "name": "Bozeman Makerspace",
+    "organization_type": "Nonprofit",
+    "website": "https://bozemanmakers.org",
+    "country": "US",
+    "description": "Bozeman Makerspace is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000027",
+    "name": "University of Nebraska-Lincoln",
+    "organization_type": "University",
+    "website": "https://www.unl.edu",
+    "country": "US",
+    "description": "University of Nebraska-Lincoln is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000028",
+    "name": "University of Nevada, Las Vegas",
+    "organization_type": "University",
+    "website": "https://www.unlv.edu",
+    "country": "US",
+    "description": "University of Nevada, Las Vegas is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000029",
+    "name": "University of New Hampshire",
+    "organization_type": "University",
+    "website": "https://www.unh.edu",
+    "country": "US",
+    "description": "University of New Hampshire is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000030",
+    "name": "New Jersey Institute of Technology",
+    "organization_type": "University",
+    "website": "https://www.njit.edu",
+    "country": "US",
+    "description": "New Jersey Institute of Technology is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000031",
+    "name": "Central New Mexico Community College",
+    "organization_type": "School",
+    "website": "https://www.cnm.edu",
+    "country": "US",
+    "description": "Central New Mexico Community College is an educational institution associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000032",
+    "name": "New York University",
+    "organization_type": "University",
+    "website": "https://www.nyu.edu",
+    "country": "US",
+    "description": "New York University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000033",
+    "name": "North Carolina State University",
+    "organization_type": "University",
+    "website": "https://www.ncsu.edu",
+    "country": "US",
+    "description": "North Carolina State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000034",
+    "name": "University of North Dakota",
+    "organization_type": "University",
+    "website": "https://und.edu",
+    "country": "US",
+    "description": "University of North Dakota is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000035",
+    "name": "Case Western Reserve University",
+    "organization_type": "University",
+    "website": "https://case.edu",
+    "country": "US",
+    "description": "Case Western Reserve University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000036",
+    "name": "Tulsa City-County Library",
+    "organization_type": "Library",
+    "website": "https://www.tulsalibrary.org",
+    "country": "US",
+    "description": "Tulsa City-County Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000037",
+    "name": "Hillsboro Public Library",
+    "organization_type": "Library",
+    "website": "https://www.hillsboro-oregon.gov/library",
+    "country": "US",
+    "description": "Hillsboro Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000038",
+    "name": "Pennsylvania State University",
+    "organization_type": "University",
+    "website": "https://www.psu.edu",
+    "country": "US",
+    "description": "Pennsylvania State University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000039",
+    "name": "Brown University",
+    "organization_type": "University",
+    "website": "https://www.brown.edu",
+    "country": "US",
+    "description": "Brown University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000040",
+    "name": "Richland Library",
+    "organization_type": "Library",
+    "website": "https://www.richlandlibrary.com",
+    "country": "US",
+    "description": "Richland Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000041",
+    "name": "South Dakota Mines",
+    "organization_type": "University",
+    "website": "https://www.sdsmt.edu",
+    "country": "US",
+    "description": "South Dakota Mines is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000042",
+    "name": "Chattanooga Public Library",
+    "organization_type": "Library",
+    "website": "https://chattlibrary.org",
+    "country": "US",
+    "description": "Chattanooga Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000043",
+    "name": "Dallas Public Library",
+    "organization_type": "Library",
+    "website": "https://dallaslibrary2.org",
+    "country": "US",
+    "description": "Dallas Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000044",
+    "name": "The City Library",
+    "organization_type": "Library",
+    "website": "https://www.slcpl.org",
+    "country": "US",
+    "description": "The City Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000045",
+    "name": "Generator",
+    "organization_type": "Nonprofit",
+    "website": "https://generatorvt.com",
+    "country": "US",
+    "description": "Generator is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000046",
+    "name": "University of Virginia",
+    "organization_type": "University",
+    "website": "https://www.virginia.edu",
+    "country": "US",
+    "description": "University of Virginia is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000047",
+    "name": "Tacoma Public Library",
+    "organization_type": "Library",
+    "website": "https://www.tacomalibrary.org",
+    "country": "US",
+    "description": "Tacoma Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000048",
+    "name": "Marshall University",
+    "organization_type": "University",
+    "website": "https://www.marshall.edu",
+    "country": "US",
+    "description": "Marshall University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000049",
+    "name": "University of Wisconsin-Madison",
+    "organization_type": "University",
+    "website": "https://www.wisc.edu",
+    "country": "US",
+    "description": "University of Wisconsin-Madison is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000050",
+    "name": "University of Wyoming",
+    "organization_type": "University",
+    "website": "https://www.uwyo.edu",
+    "country": "US",
+    "description": "University of Wyoming is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000051",
+    "name": "Prince George's County Memorial Library System",
+    "organization_type": "Library",
+    "website": "https://www.pgcmls.info",
+    "country": "US",
+    "description": "Prince George's County Memorial Library System provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000052",
+    "name": "District of Columbia Public Library",
+    "organization_type": "Government",
+    "website": "https://www.dclibrary.org",
+    "country": "US",
+    "description": "District of Columbia Public Library is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000053",
+    "name": "Fairfax County Public Library",
+    "organization_type": "Library",
+    "website": "https://www.fairfaxcounty.gov/library",
+    "country": "US",
+    "description": "Fairfax County Public Library provides public library, learning, technology, or maker resources.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000054",
+    "name": "Nova Labs, Inc.",
+    "organization_type": "Nonprofit",
+    "website": "https://www.nova-labs.org",
+    "country": "US",
+    "description": "Nova Labs, Inc. is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000055",
+    "name": "George Mason University",
+    "organization_type": "University",
+    "website": "https://www.gmu.edu",
+    "country": "US",
+    "description": "George Mason University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000055_logo"
+  },
+  {
+    "id": "org_000056",
+    "name": "Toshiba America Foundation",
+    "organization_type": "Foundation",
+    "website": "https://toshiba.com/taf/",
+    "country": "US",
+    "description": "Toshiba America Foundation is a foundation supporting educational, community, or student opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000057",
+    "name": "FIRST",
+    "organization_type": "Nonprofit",
+    "website": "https://www.firstinspires.org",
+    "country": "US",
+    "description": "FIRST is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000057_logo"
+  },
+  {
+    "id": "org_000058",
+    "name": "BAE Systems",
+    "organization_type": "Company",
+    "website": "https://www.baesystems.com",
+    "country": "US",
+    "description": "BAE Systems is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000058_logo"
+  },
+  {
+    "id": "org_000059",
+    "name": "Boston Scientific",
+    "organization_type": "Company",
+    "website": "https://www.bostonscientific.com",
+    "country": "US",
+    "description": "Boston Scientific is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000059_logo"
+  },
+  {
+    "id": "org_000060",
+    "name": "Lemelson-MIT Program",
+    "organization_type": "University",
+    "website": "https://lemelson.mit.edu",
+    "country": "US",
+    "description": "Lemelson-MIT Program is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000061",
+    "name": "American Institute of Aeronautics and Astronautics",
+    "organization_type": "Professional Organization",
+    "website": "https://www.aiaa.org",
+    "country": "US",
+    "description": "American Institute of Aeronautics and Astronautics is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000061_logo"
+  },
+  {
+    "id": "org_000062",
+    "name": "National Earth Science Teachers Association",
+    "organization_type": "Professional Organization",
+    "website": "https://nestanet.org",
+    "country": "US",
+    "description": "National Earth Science Teachers Association is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000063",
+    "name": "IEEE",
+    "organization_type": "Professional Organization",
+    "website": "https://www.ieee.org",
+    "country": "US",
+    "description": "IEEE is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000063_logo"
+  },
+  {
+    "id": "org_000064",
+    "name": "Delaware Division of the Arts",
+    "organization_type": "Government",
+    "website": "https://arts.delaware.gov",
+    "country": "US",
+    "description": "Delaware Division of the Arts is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000065",
+    "name": "Captain Planet Foundation",
+    "organization_type": "Foundation",
+    "website": "https://captainplanetfoundation.org",
+    "country": "US",
+    "description": "Captain Planet Foundation is a foundation supporting educational, community, or student opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000065_logo"
+  },
+  {
+    "id": "org_000066",
+    "name": "University of Delaware Cooperative Extension",
+    "organization_type": "University",
+    "website": "https://www.udel.edu/canr/cooperative-extension/",
+    "country": "US",
+    "description": "University of Delaware Cooperative Extension is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000067",
+    "name": "Delaware Pathways",
+    "organization_type": "Government",
+    "website": "https://delawarepathways.org",
+    "country": "US",
+    "description": "Delaware Pathways is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000068",
+    "name": "Volunteer Delaware",
+    "organization_type": "Government",
+    "website": "https://volunteer.delaware.gov",
+    "country": "US",
+    "description": "Volunteer Delaware is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000069",
+    "name": "DonorsChoose",
+    "organization_type": "Nonprofit",
+    "website": "https://www.donorschoose.org",
+    "country": "US",
+    "description": "DonorsChoose is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000070",
+    "name": "Walmart",
+    "organization_type": "Company",
+    "website": "https://www.walmart.org",
+    "country": "US",
+    "description": "Walmart is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000071",
+    "name": "The Awesome Foundation",
+    "organization_type": "Foundation",
+    "website": "https://www.awesomefoundation.org",
+    "country": "US",
+    "description": "The Awesome Foundation is a foundation supporting educational, community, or student opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000072",
+    "name": "3M and Discovery Education",
+    "organization_type": "Company",
+    "website": "https://youngscientistlab.com/challenge",
+    "country": "US",
+    "description": "3M and Discovery Education is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000072_logo"
+  },
+  {
+    "id": "org_000073",
+    "name": "Aerospace Industries Association",
+    "organization_type": "Professional Organization",
+    "website": "https://rocketcontest.org/",
+    "country": "US",
+    "description": "Aerospace Industries Association is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000073_logo"
+  },
+  {
+    "id": "org_000074",
+    "name": "Air & Space Forces Association",
+    "organization_type": "Nonprofit",
+    "website": "https://www.uscyberpatriot.org/",
+    "country": "US",
+    "description": "Air & Space Forces Association is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000074_logo"
+  },
+  {
+    "id": "org_000075",
+    "name": "Alliance for Young Artists & Writers",
+    "organization_type": "Nonprofit",
+    "website": "https://www.artandwriting.org/",
+    "country": "US",
+    "description": "Alliance for Young Artists & Writers is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000075_logo"
+  },
+  {
+    "id": "org_000076",
+    "name": "American Association of Physics Teachers",
+    "organization_type": "Professional Organization",
+    "website": "https://www.aapt.org/physicsteam/",
+    "country": "US",
+    "description": "American Association of Physics Teachers is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000076_logo"
+  },
+  {
+    "id": "org_000077",
+    "name": "American Chemical Society",
+    "organization_type": "Professional Organization",
+    "website": "https://www.acs.org/education/olympiad.html",
+    "country": "US",
+    "description": "American Chemical Society is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000077_logo"
+  },
+  {
+    "id": "org_000078",
+    "name": "American Computer Science League",
+    "organization_type": "Other",
+    "website": "https://www.acsl.org/",
+    "country": "US",
+    "description": "American Computer Science League is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": "org_000078_logo"
+  },
+  {
+    "id": "org_000079",
+    "name": "American Foreign Service Association",
+    "organization_type": "Professional Organization",
+    "website": "https://afsa.org/essay-contest",
+    "country": "US",
+    "description": "American Foreign Service Association is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000079_logo"
+  },
+  {
+    "id": "org_000080",
+    "name": "Apple",
+    "organization_type": "Company",
+    "website": "https://developer.apple.com/swift-student-challenge/",
+    "country": "US",
+    "description": "Apple is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000080_logo"
+  },
+  {
+    "id": "org_000081",
+    "name": "Bank of America",
+    "organization_type": "Company",
+    "website": "https://about.bankofamerica.com/en/making-an-impact/student-leaders",
+    "country": "US",
+    "description": "Bank of America is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000081_logo"
+  },
+  {
+    "id": "org_000082",
+    "name": "Blue Ocean Competition",
+    "organization_type": "Other",
+    "website": "https://blueoceancompetition.org/",
+    "country": "US",
+    "description": "Blue Ocean Competition is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": "org_000082_logo"
+  },
+  {
+    "id": "org_000083",
+    "name": "Boston University",
+    "organization_type": "University",
+    "website": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/",
+    "country": "US",
+    "description": "Boston University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000083_logo"
+  },
+  {
+    "id": "org_000084",
+    "name": "Breakthrough Prize Foundation",
+    "organization_type": "Nonprofit",
+    "website": "https://breakthroughjuniorchallenge.org/",
+    "country": "US",
+    "description": "Breakthrough Prize Foundation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000084_logo"
+  },
+  {
+    "id": "org_000085",
+    "name": "C-SPAN",
+    "organization_type": "Company",
+    "website": "https://www.studentcam.org/",
+    "country": "US",
+    "description": "C-SPAN is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000085_logo"
+  },
+  {
+    "id": "org_000086",
+    "name": "Carnegie Mellon University",
+    "organization_type": "University",
+    "website": "https://picoctf.org/",
+    "country": "US",
+    "description": "Carnegie Mellon University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000087",
+    "name": "Center for Excellence in Education",
+    "organization_type": "Other",
+    "website": "https://www.usabo-trc.org/",
+    "country": "US",
+    "description": "Center for Excellence in Education is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": "org_000087_logo"
+  },
+  {
+    "id": "org_000088",
+    "name": "Congressional App Challenge",
+    "organization_type": "Nonprofit",
+    "website": "https://www.congressionalappchallenge.us/",
+    "country": "US",
+    "description": "Congressional App Challenge is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000088_logo"
+  },
+  {
+    "id": "org_000089",
+    "name": "Conrad Foundation",
+    "organization_type": "Nonprofit",
+    "website": "https://www.conradchallenge.org/",
+    "country": "US",
+    "description": "Conrad Foundation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000090",
+    "name": "Council for Economic Education",
+    "organization_type": "Nonprofit",
+    "website": "https://www.councilforeconed.org/national-economics-challenge/",
+    "country": "US",
+    "description": "Council for Economic Education is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000090_logo"
+  },
+  {
+    "id": "org_000091",
+    "name": "DECA",
+    "organization_type": "Nonprofit",
+    "website": "https://www.deca.org/",
+    "country": "US",
+    "description": "DECA is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000091_logo"
+  },
+  {
+    "id": "org_000092",
+    "name": "Davidson Institute",
+    "organization_type": "Nonprofit",
+    "website": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
+    "country": "US",
+    "description": "Davidson Institute is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000092_logo"
+  },
+  {
+    "id": "org_000093",
+    "name": "EXPLR",
+    "organization_type": "Company",
+    "website": "https://www.nationalstemfestival.com/",
+    "country": "US",
+    "description": "EXPLR is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000094",
+    "name": "Future Business Leaders of America",
+    "organization_type": "Nonprofit",
+    "website": "https://www.fbla.org/",
+    "country": "US",
+    "description": "Future Business Leaders of America is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000094_logo"
+  },
+  {
+    "id": "org_000095",
+    "name": "Genes in Space",
+    "organization_type": "Other",
+    "website": "https://www.genesinspace.org/",
+    "country": "US",
+    "description": "Genes in Space is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": "org_000095_logo"
+  },
+  {
+    "id": "org_000096",
+    "name": "Hack Club",
+    "organization_type": "Other",
+    "website": "https://hackclub.com/programs/",
+    "country": "US",
+    "description": "Hack Club is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": "org_000096_logo"
+  },
+  {
+    "id": "org_000097",
+    "name": "JSHS",
+    "organization_type": "Nonprofit",
+    "website": "https://jshs.org/",
+    "country": "US",
+    "description": "JSHS is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000097_logo"
+  },
+  {
+    "id": "org_000098",
+    "name": "John F. Kennedy Library Foundation",
+    "organization_type": "Nonprofit",
+    "website": "https://www.jfklibrary.org/essay-contest",
+    "country": "US",
+    "description": "John F. Kennedy Library Foundation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000099",
+    "name": "KISS Institute for Practical Robotics",
+    "organization_type": "Nonprofit",
+    "website": "https://www.botball.org/",
+    "country": "US",
+    "description": "KISS Institute for Practical Robotics is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000099_logo"
+  },
+  {
+    "id": "org_000100",
+    "name": "MATE Inspiration for Innovation",
+    "organization_type": "Other",
+    "website": "https://materovcompetition.org/",
+    "country": "US",
+    "description": "MATE Inspiration for Innovation is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000101",
+    "name": "MIT",
+    "organization_type": "University",
+    "website": "https://mites.mit.edu/discover-mites/mites-summer/",
+    "country": "US",
+    "description": "MIT is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000101_logo"
+  },
+  {
+    "id": "org_000102",
+    "name": "MIT Lincoln Laboratory",
+    "organization_type": "University",
+    "website": "https://bwsi.mit.edu/",
+    "country": "US",
+    "description": "MIT Lincoln Laboratory is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000102_logo"
+  },
+  {
+    "id": "org_000103",
+    "name": "Mathematical Association of America",
+    "organization_type": "Professional Organization",
+    "website": "https://maa.org/student-programs/amc/",
+    "country": "US",
+    "description": "Mathematical Association of America is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": "org_000103_logo"
+  },
+  {
+    "id": "org_000104",
+    "name": "NASA",
+    "organization_type": "Government",
+    "website": "https://www.nasa.gov/stem/app-development-challenge/",
+    "country": "US",
+    "description": "NASA is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000104_logo"
+  },
+  {
+    "id": "org_000105",
+    "name": "National Endowment for the Arts",
+    "organization_type": "Government",
+    "website": "https://www.poetryoutloud.org/",
+    "country": "US",
+    "description": "National Endowment for the Arts is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000105_logo"
+  },
+  {
+    "id": "org_000106",
+    "name": "National History Day",
+    "organization_type": "Nonprofit",
+    "website": "https://nhd.org/",
+    "country": "US",
+    "description": "National History Day is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000106_logo"
+  },
+  {
+    "id": "org_000107",
+    "name": "National Institutes of Health",
+    "organization_type": "Government",
+    "website": "https://www.training.nih.gov/research-training/hs/",
+    "country": "US",
+    "description": "National Institutes of Health is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000107_logo"
+  },
+  {
+    "id": "org_000108",
+    "name": "National Speech & Debate Association",
+    "organization_type": "Nonprofit",
+    "website": "https://www.speechanddebate.org/nationals/",
+    "country": "US",
+    "description": "National Speech & Debate Association is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000108_logo"
+  },
+  {
+    "id": "org_000109",
+    "name": "Real World Design Challenge",
+    "organization_type": "Other",
+    "website": "https://www.realworlddesignchallenge.org/",
+    "country": "US",
+    "description": "Real World Design Challenge is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000110",
+    "name": "RoboCupJunior",
+    "organization_type": "Nonprofit",
+    "website": "https://junior.robocup.org/",
+    "country": "US",
+    "description": "RoboCupJunior is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000110_logo"
+  },
+  {
+    "id": "org_000111",
+    "name": "RoboNation",
+    "organization_type": "Nonprofit",
+    "website": "https://seaperch.org/",
+    "country": "US",
+    "description": "RoboNation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000112",
+    "name": "Robotics Education & Competition Foundation",
+    "organization_type": "Nonprofit",
+    "website": "https://recf.org/aerial-drone-competition/",
+    "country": "US",
+    "description": "Robotics Education & Competition Foundation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000113",
+    "name": "Rockefeller University",
+    "organization_type": "University",
+    "website": "https://www.rockefeller.edu/outreach/ssrp/",
+    "country": "US",
+    "description": "Rockefeller University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000114",
+    "name": "Science Olympiad",
+    "organization_type": "Nonprofit",
+    "website": "https://www.soinc.org/",
+    "country": "US",
+    "description": "Science Olympiad is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000114_logo"
+  },
+  {
+    "id": "org_000115",
+    "name": "SkillsUSA",
+    "organization_type": "Nonprofit",
+    "website": "https://www.skillsusa.org/",
+    "country": "US",
+    "description": "SkillsUSA is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000115_logo"
+  },
+  {
+    "id": "org_000116",
+    "name": "Society for Science",
+    "organization_type": "Nonprofit",
+    "website": "https://www.societyforscience.org/isef/",
+    "country": "US",
+    "description": "Society for Science is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000116_logo"
+  },
+  {
+    "id": "org_000117",
+    "name": "Stanford University",
+    "organization_type": "University",
+    "website": "https://simr.stanford.edu/",
+    "country": "US",
+    "description": "Stanford University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000117_logo"
+  },
+  {
+    "id": "org_000118",
+    "name": "Stony Brook University",
+    "organization_type": "University",
+    "website": "https://www.stonybrook.edu/simons/",
+    "country": "US",
+    "description": "Stony Brook University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000118_logo"
+  },
+  {
+    "id": "org_000119",
+    "name": "Summer Science Program",
+    "organization_type": "Other",
+    "website": "https://summerscience.org/",
+    "country": "US",
+    "description": "Summer Science Program is an organization associated with a Pathly student resource or opportunity.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000120",
+    "name": "Technovation",
+    "organization_type": "Nonprofit",
+    "website": "https://technovationchallenge.org/",
+    "country": "US",
+    "description": "Technovation is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000120_logo"
+  },
+  {
+    "id": "org_000121",
+    "name": "Texas Tech University",
+    "organization_type": "University",
+    "website": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+    "country": "US",
+    "description": "Texas Tech University is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000122",
+    "name": "The American Legion",
+    "organization_type": "Nonprofit",
+    "website": "https://www.legion.org/oratorical",
+    "country": "US",
+    "description": "The American Legion is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000123",
+    "name": "Toshiba / NSTA",
+    "organization_type": "Professional Organization",
+    "website": "https://www.exploravision.org/",
+    "country": "US",
+    "description": "Toshiba / NSTA is a professional organization supporting student education, competitions, or technical development.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000124",
+    "name": "U.S. Army Educational Outreach Program",
+    "organization_type": "Government",
+    "website": "https://www.ecybermission.com/",
+    "country": "US",
+    "description": "U.S. Army Educational Outreach Program is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000124_logo"
+  },
+  {
+    "id": "org_000125",
+    "name": "U.S. Department of Energy",
+    "organization_type": "Government",
+    "website": "https://science.osti.gov/wdts/nsb",
+    "country": "US",
+    "description": "U.S. Department of Energy is a public-sector organization associated with student education, service, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000125_logo"
+  },
+  {
+    "id": "org_000126",
+    "name": "USACO",
+    "organization_type": "Nonprofit",
+    "website": "https://usaco.org/",
+    "country": "US",
+    "description": "USACO is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000127",
+    "name": "University of California, Santa Barbara",
+    "organization_type": "University",
+    "website": "https://www.summer.ucsb.edu/programs/research-mentorship-program",
+    "country": "US",
+    "description": "University of California, Santa Barbara is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000128",
+    "name": "University of Delaware Horn Entrepreneurship",
+    "organization_type": "University",
+    "website": "https://diamondchallenge.org/",
+    "country": "US",
+    "description": "University of Delaware Horn Entrepreneurship is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000129",
+    "name": "VEX Robotics",
+    "organization_type": "Company",
+    "website": "https://www.vexrobotics.com/official-path",
+    "country": "US",
+    "description": "VEX Robotics is a company supporting or operating a student opportunity represented in Pathly.",
+    "verified": true,
+    "logo_asset_name": "org_000129_logo"
+  },
+  {
+    "id": "org_000130",
+    "name": "Wharton Global Youth Program",
+    "organization_type": "University",
+    "website": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
+    "country": "US",
+    "description": "Wharton Global Youth Program is a higher-education institution associated with Pathly student learning, research, or maker opportunities.",
+    "verified": true,
+    "logo_asset_name": "org_000130_logo"
+  },
+  {
+    "id": "org_000131",
+    "name": "YoungArts",
+    "organization_type": "Nonprofit",
+    "website": "https://youngarts.org/apply/",
+    "country": "US",
+    "description": "YoungArts is a nonprofit organization associated with student learning, competition, maker, or community opportunities.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000132",
+    "name": "Colorado State University",
+    "organization_type": "University",
+    "website": "https://csucybercamp.cs.colostate.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000133",
+    "name": "Indiana University of Pennsylvania",
+    "organization_type": "University",
+    "website": "https://iup.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000134",
+    "name": "Aviation High School Aero Club",
+    "organization_type": "School",
+    "website": "https://amcai.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000135",
+    "name": "MATHCOUNTS",
+    "organization_type": "Nonprofit",
+    "website": "https://mathcounts.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000136",
+    "name": "River Falls Robotics",
+    "organization_type": "Community Organization",
+    "website": "https://sites.google.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000137",
+    "name": "Saline Area Schools",
+    "organization_type": "School",
+    "website": "https://salineschools.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000138",
+    "name": "Capitol Debate",
+    "organization_type": "Company",
+    "website": "https://cdadebate.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000139",
+    "name": "The Science Club",
+    "organization_type": "Nonprofit",
+    "website": "https://thescienceclub.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000140",
+    "name": "Young Entrepreneur Club",
+    "organization_type": "Nonprofit",
+    "website": "https://y-e-c.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000141",
+    "name": "University of Utah",
+    "organization_type": "University",
+    "website": "https://price.utah.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000142",
+    "name": "West Virginia Space Grant Consortium",
+    "organization_type": "Nonprofit",
+    "website": "https://wvspacegrant.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000143",
+    "name": "New York Hall of Science",
+    "organization_type": "Nonprofit",
+    "website": "https://nysci.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000144",
+    "name": "Super Saturday STEM Expo",
+    "organization_type": "Nonprofit",
+    "website": "https://supersaturdaystemexpo.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000145",
+    "name": "Teen Tech Conference",
+    "organization_type": "Company",
+    "website": "https://teentechconference.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000146",
+    "name": "Youth Entrepreneur Summit",
+    "organization_type": "Company",
+    "website": "https://youthentsummit.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000147",
+    "name": "iStart Valley",
+    "organization_type": "Nonprofit",
+    "website": "https://istartvalley.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000148",
+    "name": "YouthBridge-NY",
+    "organization_type": "Nonprofit",
+    "website": "https://youthbridgeny.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000149",
+    "name": "UNICEF",
+    "organization_type": "Nonprofit",
+    "website": "https://unicef.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000150",
+    "name": "Coalition for Good Schools",
+    "organization_type": "Nonprofit",
+    "website": "https://coalitionforgoodschools.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000151",
+    "name": "World Affairs Council of Pittsburgh",
+    "organization_type": "Nonprofit",
+    "website": "https://worldpittsburgh.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000152",
+    "name": "Youth Research Initiative",
+    "organization_type": "Company",
+    "website": "https://yriscience.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000153",
+    "name": "Junior Achievement of New Jersey",
+    "organization_type": "Nonprofit",
+    "website": "https://janj.ja.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000154",
+    "name": "City of Alabaster",
+    "organization_type": "Government",
+    "website": "https://cityofalabaster.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000155",
+    "name": "California Commission on the Status of Women and Girls",
+    "organization_type": "Government",
+    "website": "https://women.ca.gov",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000156",
+    "name": "City of Houston",
+    "organization_type": "Government",
+    "website": "https://houstontx.gov",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000157",
+    "name": "Delaware Department of State",
+    "organization_type": "Government",
+    "website": "https://sos.delaware.gov",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000158",
+    "name": "City of Fontana",
+    "organization_type": "Government",
+    "website": "https://fontanaca.gov",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000159",
+    "name": "Mayor's Community Council of Youth",
+    "organization_type": "Nonprofit",
+    "website": "https://mccoyouth.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000160",
+    "name": "New York State Youth Leadership Council",
+    "organization_type": "Company",
+    "website": "https://nysylc.secure-platform.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000161",
+    "name": "Make-A-Wish",
+    "organization_type": "Nonprofit",
+    "website": "https://wish.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000162",
+    "name": "Middletown Community Foundation",
+    "organization_type": "Foundation",
+    "website": "https://mcfoundation.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000163",
+    "name": "Middletown (DE) Alumnae Chapter, Delta Sigma Theta Sorority",
+    "organization_type": "Nonprofit",
+    "website": "https://middletowndedst.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000164",
+    "name": "Society of Hispanic Professional Engineers",
+    "organization_type": "Nonprofit",
+    "website": "https://shpe.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000165",
+    "name": "University of Florida",
+    "organization_type": "University",
+    "website": "https://floridamuseum.ufl.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000166",
+    "name": "National Museum of the Marine Corps",
+    "organization_type": "Company",
+    "website": "https://usmcmuseum.com",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000167",
+    "name": "Winterthur Museum, Garden & Library",
+    "organization_type": "Nonprofit",
+    "website": "https://winterthur.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000168",
+    "name": "Smithsonian Institution",
+    "organization_type": "Government",
+    "website": "https://nationalzoo.si.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000169",
+    "name": "Explore Children's Museum",
+    "organization_type": "Nonprofit",
+    "website": "https://explorefcm.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000170",
+    "name": "Nemours Children's Health",
+    "organization_type": "Nonprofit",
+    "website": "https://nemours.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000171",
+    "name": "The Living Desert Zoo and Gardens",
+    "organization_type": "Nonprofit",
+    "website": "https://livingdesert.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000172",
+    "name": "Northeastern University",
+    "organization_type": "University",
+    "website": "https://stem.northeastern.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000173",
+    "name": "Chapman University",
+    "organization_type": "University",
+    "website": "https://chapman.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000174",
+    "name": "Petersen Automotive Museum",
+    "organization_type": "Nonprofit",
+    "website": "https://petersen.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000175",
+    "name": "Georgia Museum of Art",
+    "organization_type": "Nonprofit",
+    "website": "https://georgiamuseum.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000176",
+    "name": "Denver Art Museum",
+    "organization_type": "Nonprofit",
+    "website": "https://denverartmuseum.org",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000177",
+    "name": "University of Washington",
+    "organization_type": "University",
+    "website": "https://youth-teen.uw.edu",
+    "country": "US",
+    "description": null,
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000178",
+    "name": "Birmingham Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AL.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000179",
+    "name": "Anchorage Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AK.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000180",
+    "name": "Fairbanks North Star Borough Public Libraries",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AK.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000181",
+    "name": "Phoenix Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AZ.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000182",
+    "name": "Tempe Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AZ.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000183",
+    "name": "Fayetteville Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in AR.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000184",
+    "name": "Los Angeles Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in CA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000185",
+    "name": "Pueblo City-county Library District",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in CO.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000186",
+    "name": "New Haven Free Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in CT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000187",
+    "name": "Ferguson Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in CT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000188",
+    "name": "Jacksonville Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in FL.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000189",
+    "name": "Orange County Library District",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in FL.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000190",
+    "name": "Fulton County Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in GA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000191",
+    "name": "Chattahoochee Valley Libraries",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in GA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000192",
+    "name": "Hawaii State Public Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in HI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000193",
+    "name": "Boise Public",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ID.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000194",
+    "name": "Nampa Public",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ID.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000195",
+    "name": "Chicago Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IL.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000196",
+    "name": "Schaumburg Township District Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IL.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000197",
+    "name": "Allen County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000198",
+    "name": "Indianapolis Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000199",
+    "name": "Des Moines Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000200",
+    "name": "Cedar Rapids Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in IA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000201",
+    "name": "Topeka and Shawnee County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in KS.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000202",
+    "name": "Wichita Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in KS.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000203",
+    "name": "Lexington Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in KY.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000204",
+    "name": "New Orleans Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in LA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000205",
+    "name": "Jefferson Parish Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in LA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000206",
+    "name": "Portland Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ME.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000207",
+    "name": "Bangor Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ME.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000208",
+    "name": "Enoch Pratt Free Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MD.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000209",
+    "name": "Boston Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000210",
+    "name": "Worcester Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000211",
+    "name": "Detroit Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000212",
+    "name": "Grand Rapids Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000213",
+    "name": "Hennepin County Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000214",
+    "name": "Great River Regional Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000215",
+    "name": "The Library of Hattiesburg, Petal & Forrest C",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MS.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000216",
+    "name": "Lee-itawamba Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MS.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000217",
+    "name": "City of St. Louis Municipal Library District",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MO.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000218",
+    "name": "Missoula Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000219",
+    "name": "Great Falls Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in MT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000220",
+    "name": "Omaha Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NE.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000221",
+    "name": "Laurel Community Learning Center",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NE.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000222",
+    "name": "Washoe County Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NV.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000223",
+    "name": "Boulder City Library District",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NV.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000224",
+    "name": "Keene Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NH.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000225",
+    "name": "Nashua Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NH.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000226",
+    "name": "Newark Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NJ.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000227",
+    "name": "Ocean County Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NJ.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000228",
+    "name": "Albuquerque/bernalillo County Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NM.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000229",
+    "name": "Farmington Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NM.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000230",
+    "name": "New York Public Library, the Branch Libraries",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NY.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000231",
+    "name": "Buffalo and Erie County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NY.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000232",
+    "name": "Forsyth County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NC.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000233",
+    "name": "Greensboro Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in NC.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000234",
+    "name": "Bismarck Veterans Memorial Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ND.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000235",
+    "name": "Fargo Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in ND.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000236",
+    "name": "Cincinnati and Hamilton County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OH.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000237",
+    "name": "Cleveland Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OH.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000238",
+    "name": "Tulsa City-county Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OK.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000239",
+    "name": "Metropolitan Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OK.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000240",
+    "name": "Multnomah County Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OR.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000241",
+    "name": "Salem Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in OR.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000242",
+    "name": "Free Library of Philadelphia",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in PA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000243",
+    "name": "Carnegie Library of Pittsburgh",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in PA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000244",
+    "name": "Providence Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in RI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000245",
+    "name": "Warwick Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in RI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000246",
+    "name": "Richland County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in SC.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000247",
+    "name": "Greenville County Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in SC.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000248",
+    "name": "Siouxland Libraries",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in SD.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000249",
+    "name": "Rapid City Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in SD.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000250",
+    "name": "Memphis Public Library and Information Center",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in TN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000251",
+    "name": "Nashville Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in TN.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000252",
+    "name": "Houston Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in TX.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000253",
+    "name": "Salt Lake City Public Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in UT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000254",
+    "name": "Provo City Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in UT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000255",
+    "name": "Fletcher Free",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in VT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000256",
+    "name": "South Burlington",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in VT.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000257",
+    "name": "Richmond Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in VA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000258",
+    "name": "Seattle Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000259",
+    "name": "Spokane Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WA.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000260",
+    "name": "Cabell County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WV.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000261",
+    "name": "Ohio County Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WV.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000262",
+    "name": "Milwaukee Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000263",
+    "name": "Madison Public Library",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WI.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000264",
+    "name": "Laramie County Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WY.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000265",
+    "name": "Campbell County Public Library System",
+    "organization_type": "Library",
+    "website": null,
+    "country": "US",
+    "description": "Public library system serving communities in WY.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000266",
+    "name": "Scholarship America",
+    "organization_type": "Nonprofit",
+    "website": "https://scholarshipamerica.org/",
+    "country": "US",
+    "description": "A nonprofit scholarship administrator and education-support organization. Individual program eligibility is set by each program sponsor.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000267",
+    "name": "San Francisco Public Library",
+    "organization_type": "Library",
+    "website": "https://sfpl.org",
+    "country": "US",
+    "description": "The public library system serving San Francisco, California.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000268",
+    "name": "Delaware Valley Science Fairs",
+    "organization_type": "Nonprofit",
+    "website": "https://www.dvsf.org/",
+    "country": "US",
+    "description": "Regeneron ISEF-affiliated regional science fair serving southeastern Pennsylvania, southern New Jersey, and Delaware.",
+    "verified": true,
+    "logo_asset_name": null
+  },
+  {
+    "id": "org_000269",
+    "name": "Delaware Technical Community College",
+    "organization_type": "University",
+    "website": "https://www.dtcc.edu/",
+    "country": "US",
+    "description": "Delaware's statewide community college; hosts the New Castle County Science Fair.",
+    "verified": true,
+    "logo_asset_name": null
+  }
+]

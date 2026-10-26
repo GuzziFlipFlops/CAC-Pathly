@@ -1,0 +1,649 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pathly Open Catalog</title>
+<style>
+  :root {
+    --bg: #f7f9fc; --surface: #ffffff; --text: #05132e; --muted: #4f6685;
+    --accent: #009cbb; --accent-soft: rgba(0, 156, 187, 0.1); --border: rgba(13, 38, 73, 0.1);
+    --chg: #b45309; --chg-soft: rgba(245, 158, 11, 0.14); --err: #c0392b; --ok: #1a7f4b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #08111f; --surface: #101c2e; --text: #eaf2fb; --muted: #9fb3cb;
+      --accent: #2cc4e0; --accent-soft: rgba(44, 196, 224, 0.14); --border: rgba(255, 255, 255, 0.1);
+      --chg: #fbbf24; --chg-soft: rgba(251, 191, 36, 0.14); --err: #ff8a80; --ok: #5bd69a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "SF Pro Rounded", "Segoe UI", sans-serif;
+  }
+  main { max-width: 980px; margin: 0 auto; padding: 48px 16px 64px; }
+  .kicker { color: var(--accent); font-weight: 700; letter-spacing: 0.08em; font-size: 13px; text-transform: uppercase; }
+  h1 { font-size: clamp(32px, 6vw, 48px); line-height: 1.1; margin: 8px 0 12px; }
+  .lede { color: var(--muted); font-size: 18px; max-width: 680px; margin: 0; }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 32px 0; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; padding: 16px; }
+  .stat b { display: block; font-size: 28px; font-variant-numeric: tabular-nums; }
+  .stat span { color: var(--muted); font-size: 14px; }
+  h2 { font-size: 20px; margin: 36px 0 12px; }
+  code, pre { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 14px; }
+  pre { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px; overflow-x: auto; margin: 0; }
+  input {
+    width: 100%; padding: 14px 16px; font: inherit; color: var(--text); background: var(--surface);
+    border: 1px solid var(--border); border-radius: 14px; outline: none;
+  }
+  input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  ul.results { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px; }
+  ul.results li { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 12px 14px; }
+  .meta { color: var(--muted); font-size: 14px; }
+  .pill { display: inline-block; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 1px 9px; font-size: 12px; font-weight: 600; margin-right: 6px; }
+  a { color: var(--accent); }
+  .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+  .button { display: inline-block; padding: 10px 16px; border-radius: 12px; text-decoration: none; font-weight: 600; background: var(--accent); color: #fff; }
+  .button.secondary { background: var(--accent-soft); color: var(--accent); }
+  @media (max-width: 520px) { .stats { grid-template-columns: 1fr; } }
+  /* ---------- Suggest an event or a fix ---------- */
+  .suggest { background: var(--surface); border: 1px solid var(--border); border-radius: 22px; padding: 18px 20px 16px; margin: 8px 0 8px; scroll-margin-top: 16px; }
+  .suggest h2 { margin: 0; font-size: 22px; line-height: 1.2; }
+  .suggest .sub { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+  .suggest .sub b { color: var(--text); font-weight: 600; }
+  .s-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+  .demo { flex: none; font: inherit; font-size: 13px; font-weight: 600; color: var(--accent); background: var(--accent-soft); border: 1px dashed var(--accent); border-radius: 999px; padding: 5px 12px; cursor: pointer; }
+  .demo:hover { background: var(--accent); color: #fff; border-style: solid; }
+  .seg { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; background: var(--bg); border: 1px solid var(--border); border-radius: 14px; padding: 4px; margin: 14px 0; }
+  .seg button { font: inherit; font-weight: 600; font-size: 15px; padding: 9px 10px; border: 0; border-radius: 10px; background: transparent; color: var(--muted); cursor: pointer; }
+  .seg button[aria-selected="true"] { background: var(--accent); color: #fff; box-shadow: 0 1px 4px rgba(0, 156, 187, 0.35); }
+  .seg button:focus-visible, .demo:focus-visible, .submit:focus-visible { outline: 3px solid var(--accent-soft); outline-offset: 2px; }
+  .s-body { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 18px; align-items: start; }
+  .fields { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 12px; }
+  .field { min-width: 0; }
+  .field.wide { grid-column: 1 / -1; }
+  .field > .lab { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; min-width: 0; margin-bottom: 4px; font-size: 13px; font-weight: 600; }
+  .field > .lab label { flex: none; }
+  .field .opt { color: var(--muted); font-weight: 400; }
+  .was { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px; font-weight: 400; color: var(--muted); }
+  .was s { text-decoration-color: var(--chg); text-decoration-thickness: 2px; }
+  .tag { display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--chg); background: var(--chg-soft); border-radius: 999px; padding: 0 6px; margin-right: 5px; vertical-align: 1px; }
+  .suggest input, .suggest select {
+    width: 100%; padding: 9px 11px; font: inherit; font-size: 15px; color: var(--text); background: var(--surface);
+    border: 1px solid var(--border); border-radius: 10px; outline: none;
+  }
+  .suggest select { appearance: none; background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%); background-position: calc(100% - 17px) 55%, calc(100% - 12px) 55%; background-size: 5px 5px; background-repeat: no-repeat; padding-right: 30px; }
+  .suggest input:focus, .suggest select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .suggest input:disabled, .suggest select:disabled { opacity: 0.5; cursor: not-allowed; }
+  .field.changed input, .field.changed select { border-color: var(--chg); background-color: var(--chg-soft); }
+  .field.invalid input, .field.invalid select { border-color: var(--err); }
+  .err { color: var(--err); font-size: 12.5px; margin-top: 3px; min-height: 0; }
+  .err:empty { display: none; }
+  .hint { color: var(--muted); font-size: 12px; margin-top: 3px; }
+  .date-row { display: grid; grid-template-columns: minmax(0, 1fr) 100px; gap: 6px; }
+  .searchbox { position: relative; margin-bottom: 12px; }
+  .searchbox .lab { display: block; font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+  .combo { list-style: none; margin: 4px 0 0; padding: 4px; position: absolute; z-index: 5; left: 0; right: 0; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; box-shadow: 0 10px 30px rgba(5, 19, 46, 0.18); max-height: 290px; overflow-y: auto; }
+  .combo li { padding: 7px 10px; border-radius: 8px; cursor: pointer; }
+  .combo li[aria-selected="true"], .combo li:hover { background: var(--accent-soft); }
+  .combo .t { font-size: 15px; font-weight: 600; }
+  .combo .meta { font-size: 12.5px; }
+  .picked { margin-top: 6px; font-size: 13px; color: var(--muted); }
+  .picked b { color: var(--text); }
+  .empty { border: 1px dashed var(--border); border-radius: 12px; padding: 22px 14px; text-align: center; color: var(--muted); font-size: 14px; }
+  .preview { background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 12px 14px; min-width: 0; }
+  .preview .ph { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 8px; font-size: 13px; font-weight: 700; }
+  .preview .chip { font-size: 11px; font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: 999px; padding: 1px 9px; white-space: nowrap; }
+  .preview .chip.demo-chip { color: var(--chg); background: var(--chg-soft); }
+  .preview pre { background: transparent; border: 0; padding: 0; margin: 0; font-size: 13px; line-height: 1.55; white-space: pre-wrap; overflow-wrap: anywhere; overflow: visible; }
+  .jk { color: var(--accent); }
+  .jv.chg { background: var(--chg-soft); border-radius: 4px; padding: 0 3px; font-weight: 600; }
+  .jv.miss { color: var(--muted); font-weight: 400; }
+  .flow { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .flow span { white-space: nowrap; }
+  .flow .arrow { color: var(--accent); }
+  .s-foot { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 16px; margin-top: 14px; }
+  .submit { flex: none; display: inline-block; text-decoration: none; font-weight: 700; font-size: 16px; background: var(--accent); color: #fff; border-radius: 12px; padding: 11px 20px; }
+  .submit:hover { filter: brightness(1.07); }
+  .s-note { flex: 1 1 280px; margin: 0; font-size: 13px; color: var(--muted); }
+  .s-status { flex-basis: 100%; margin: 0; font-size: 13px; }
+  .s-status.bad { color: var(--err); }
+  .s-status.good { color: var(--ok); }
+  .s-status:empty { display: none; }
+  @media (max-width: 820px) { .s-body { grid-template-columns: minmax(0, 1fr); } }
+  @media (max-width: 520px) {
+    .suggest { padding: 14px 14px 14px; border-radius: 18px; }
+    .fields { grid-template-columns: 1fr; }
+    .s-head { flex-direction: column; gap: 8px; }
+    .submit { width: 100%; text-align: center; }
+  }
+
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Open data · CC BY 4.0</div>
+  <h1>Pathly Open Catalog</h1>
+  <p class="lede">A free database of competitions, science fairs, scholarships, programs, and the places where students can do the work. Use it in your own projects, and <a href="#suggest">help keep it accurate</a>.</p>
+
+  <div class="stats">
+    <div class="stat"><b id="opportunities">–</b><span>opportunities</span></div>
+    <div class="stat"><b id="places">–</b><span>places</span></div>
+    <div class="stat"><b id="organizations">–</b><span>organizations</span></div>
+  </div>
+  <p class="meta" id="version">Loading catalog…</p>
+
+  <section class="suggest" id="suggest" aria-labelledby="suggest-title">
+    <div class="s-head">
+      <div>
+        <h2 id="suggest-title">Suggest an event or a fix</h2>
+        <p class="sub">Missing an event, or spotted a wrong date or link? <b>Every suggestion is reviewed before it reaches the app.</b></p>
+      </div>
+      <button type="button" class="demo" id="demo" title="Fill Fix mode with a labeled example">▶ Demo</button>
+    </div>
+
+    <div class="seg" role="tablist" aria-label="What would you like to do?">
+      <button type="button" role="tab" id="tab-add" aria-selected="true" aria-controls="s-body">Add an event</button>
+      <button type="button" role="tab" id="tab-fix" aria-selected="false" aria-controls="s-body">Fix an event</button>
+    </div>
+
+    <div class="s-body" id="s-body" role="tabpanel">
+      <div>
+        <div class="searchbox" id="searchbox" hidden>
+          <label class="lab" for="q">Which event or place is wrong?</label>
+          <input id="q" type="text" role="combobox" aria-expanded="false" aria-controls="combo" aria-autocomplete="list" autocomplete="off" placeholder="Search the catalog: “Delaware Valley”, “ISEF”, opp_000031…">
+          <ul class="combo" id="combo" role="listbox" hidden></ul>
+          <div class="picked" id="picked" hidden></div>
+          <div class="err" id="e-rec"></div>
+        </div>
+        <div class="empty" id="empty" hidden>Pick a record above and its current details load here. Change what is wrong and it lights up.</div>
+
+        <div class="fields" id="fields">
+          <div class="field" id="fld-name">
+            <div class="lab"><label for="f-name">Event name</label><span class="was" id="w-name" hidden></span></div>
+            <input id="f-name" type="text" maxlength="140" autocomplete="off" placeholder="Regional Robotics Showcase 2027">
+            <div class="err" id="e-name"></div>
+          </div>
+          <div class="field" id="fld-type">
+            <div class="lab"><label for="f-type">Type</label><span class="was" id="w-type" hidden></span></div>
+            <select id="f-type"></select>
+            <div class="err" id="e-type"></div>
+          </div>
+          <div class="field wide" id="fld-url">
+            <div class="lab"><label for="f-url">Official link</label><span class="was" id="w-url" hidden></span></div>
+            <input id="f-url" type="url" maxlength="300" autocomplete="off" placeholder="https://">
+            <div class="err" id="e-url"></div>
+          </div>
+          <div class="field" id="fld-date">
+            <div class="lab"><label for="f-date">Date</label><span class="was" id="w-date" hidden></span></div>
+            <div class="date-row">
+              <input id="f-date" type="date" aria-label="Date">
+              <select id="f-datekind" aria-label="Which date is this?">
+                <option value="deadline">Deadline</option>
+                <option value="event_start">Starts</option>
+              </select>
+            </div>
+            <div class="err" id="e-date"></div>
+          </div>
+          <div class="field" id="fld-location">
+            <div class="lab"><label for="f-location">Location</label><span class="was" id="w-location" hidden></span></div>
+            <input id="f-location" type="text" maxlength="100" autocomplete="off" placeholder="City, ST or Online">
+            <div class="err" id="e-location"></div>
+          </div>
+          <div class="field" id="fld-grades">
+            <div class="lab"><label for="f-grades">Who can join (grades)</label><span class="was" id="w-grades" hidden></span></div>
+            <input id="f-grades" type="text" maxlength="20" autocomplete="off" placeholder="e.g. 9-12">
+            <div class="err" id="e-grades"></div>
+          </div>
+          <div class="field" id="fld-note">
+            <div class="lab"><label for="f-note">Short note <span class="opt">(optional)</span></label></div>
+            <input id="f-note" type="text" maxlength="300" autocomplete="off" placeholder="Anything reviewers should know">
+          </div>
+          <div class="field wide" id="fld-source" hidden>
+            <div class="lab"><label for="f-source">Source link (required)</label></div>
+            <input id="f-source" type="url" maxlength="300" autocomplete="off" placeholder="https:// — the official page that shows the correct info">
+            <div class="err" id="e-source"></div>
+          </div>
+        </div>
+        <div class="err" id="e-changes"></div>
+      </div>
+
+      <aside class="preview" aria-label="What will be submitted">
+        <div class="ph"><span>What will be submitted</span><span class="chip" id="chip">New event</span></div>
+        <pre id="json" aria-live="polite"></pre>
+        <div class="flow" aria-label="What happens next">
+          <span>Your suggestion</span><span class="arrow">→</span><span>Maintainer review</span><span class="arrow">→</span><span>Automatic check</span><span class="arrow">→</span><span>In the app</span>
+        </div>
+      </aside>
+    </div>
+
+    <div class="s-foot">
+      <a class="submit" id="submit" href="#" target="_blank" rel="noopener">Open on GitHub to submit ↗</a>
+      <p class="s-note">Needs a free GitHub account. Every suggestion is reviewed and checked automatically before it reaches the app.</p>
+      <p class="s-status" id="status" role="status"></p>
+    </div>
+  </section>
+
+  <h2>Search the catalog</h2>
+  <input id="search" type="search" placeholder="Try “science fair”, “ISEF”, or “Delaware”" aria-label="Search opportunities">
+  <ul class="results" id="results"></ul>
+
+  <h2>Use the API</h2>
+  <pre id="endpoints"></pre>
+
+  <div class="actions">
+    <a class="button" href="https://github.com/{{OWNER}}/{{REPO}}/issues/new/choose">Report or add a record</a>
+    <a class="button secondary" href="https://github.com/{{OWNER}}/{{REPO}}">View on GitHub</a>
+  </div>
+</main>
+<script>
+  const base = new URL("v1/", location.href);
+  const files = ["index.json", "opportunities.json", "places.json", "organizations.json", "opportunity_locations.json"];
+  document.getElementById("endpoints").textContent = files.map(f => new URL(f, base).href).join("\n");
+
+  const load = file => fetch(new URL(file, base)).then(r => r.json());
+  const opportunitiesLoad = load("opportunities.json");
+  const placesLoad = load("places.json").catch(() => []);
+  let opportunities = [];
+  const results = document.getElementById("results");
+
+  function render(query) {
+    results.replaceChildren();
+    const q = query.trim().toLowerCase();
+    if (!q) return;
+    // Records with a known date first, then name matches, so actionable results lead.
+    const rank = o => (o.deadline || o.event_start ? 0 : 2) + (o.name.toLowerCase().includes(q) ? 0 : 1);
+    const matches = opportunities.filter(o =>
+      [o.name, o.subcategory, o.description_short, (o.eligible_states || []).join(" ")]
+        .filter(Boolean).join(" ").toLowerCase().includes(q)
+    ).sort((a, b) => rank(a) - rank(b)).slice(0, 8);
+    if (!matches.length) {
+      const li = document.createElement("li");
+      li.className = "meta";
+      li.textContent = "No matches. Know one that's missing? Suggest it above.";
+      results.append(li);
+      return;
+    }
+    for (const o of matches) {
+      const li = document.createElement("li");
+      const title = document.createElement("div");
+      const link = document.createElement("a");
+      link.href = o.official_url; link.textContent = o.name; link.rel = "noopener";
+      title.append(link);
+      const meta = document.createElement("div");
+      meta.className = "meta";
+      const pill = document.createElement("span");
+      pill.className = "pill"; pill.textContent = o.category;
+      const when = o.deadline ? `Deadline ${o.deadline}` : o.event_start ? `Starts ${o.event_start}` : "Date not listed";
+      meta.append(pill, `${o.id} · ${when}`);
+      li.append(title, meta);
+      results.append(li);
+    }
+  }
+
+  (async () => {
+    try {
+      const index = await (await fetch(new URL("index.json", base))).json();
+      for (const key of ["opportunities", "places", "organizations"]) {
+        document.getElementById(key).textContent = index.counts[key].toLocaleString();
+      }
+      document.getElementById("version").textContent = `Version ${index.version} · updated ${index.updated}`;
+      opportunities = await opportunitiesLoad;
+      const input = document.getElementById("search");
+      input.addEventListener("input", e => render(e.target.value));
+      render(input.value);
+    } catch {
+      document.getElementById("version").textContent = "Couldn't load the catalog. Open v1/index.json directly.";
+    }
+  })();
+
+  /* ---------- Suggest an event or a fix ----------
+     No backend: the form builds a pre-filled GitHub issue (issue-form query params).
+     A maintainer reviews it, fixes the data, and the "Validate catalog" action checks it. */
+  (() => {
+    const REPO = "{{OWNER}}/{{REPO}}";
+    const PLACE = "Place (library, makerspace, lab, museum…)"; // keep in sync with add-an-opportunity.yml
+    const TYPES = ["Competition", "Hackathon", "Research", "Internship", "Scholarship", "Program", "Camp",
+                   "Workshop", "Event", "Volunteering", "Leadership", "Club", "Fellowship", "Grant", PLACE];
+    const MAX_URL = 5800;
+    const $ = id => document.getElementById(id);
+    const el = {
+      add: $("tab-add"), fix: $("tab-fix"), demo: $("demo"), searchbox: $("searchbox"), q: $("q"), combo: $("combo"),
+      picked: $("picked"), empty: $("empty"), fields: $("fields"), json: $("json"), chip: $("chip"),
+      submit: $("submit"), status: $("status"), source: $("fld-source"), eChanges: $("e-changes"), eRec: $("e-rec"),
+      name: $("f-name"), type: $("f-type"), url: $("f-url"), date: $("f-date"), kind: $("f-datekind"),
+      location: $("f-location"), grades: $("f-grades"), note: $("f-note"), srcInput: $("f-source"),
+    };
+    const KEYS = ["name", "type", "url", "date", "location", "grades", "note"];
+    const LABELS = { name: "Name", type: "Type", url: "Official link", date: "Date", location: "Location", grades: "Grades" };
+
+    el.type.append(new Option("Choose a type…", ""), ...TYPES.map(t => new Option(t, t)));
+
+    const blank = () => ({ name: "", type: "", url: "", date: "", dateKind: "deadline", location: "", grades: "", note: "",
+                           source: "", rec: null, orig: null, demo: false, touched: new Set(), attempted: false });
+    const S = { mode: "add", add: blank(), fix: blank() };
+    const cur = () => S[S.mode];
+    let places = [], opps = [];
+    const dataReady = Promise.all([opportunitiesLoad, placesLoad]).then(([o, p]) => { opps = o; places = p; }).catch(() => {});
+
+    /* ----- helpers ----- */
+    const norm = v => String(v ?? "").trim().replace(/\s+/g, " ").toLowerCase();
+    const isUrl = v => { try { const u = new URL(v.trim()); return /^https?:$/.test(u.protocol) && u.hostname.includes("."); } catch { return false; } };
+    const gradeText = (a, b) => a == null && b == null ? "" : a === b || b == null ? String(a) : a == null ? String(b) : `${a}-${b}`;
+    function parseGrades(v) {
+      const m = String(v).trim().match(/^(?:grades?\s*)?(\d{1,2})(?:\s*(?:-|–|—|to)\s*(\d{1,2}))?$/i);
+      if (!m) return null;
+      const a = +m[1], b = m[2] == null ? a : +m[2];
+      return a >= 1 && b <= 12 && a <= b ? [a, b] : null;
+    }
+    const kindLabel = k => k === "deadline" ? "deadline" : "event start";
+    const addDays = (iso, n) => { const d = new Date(iso + "T00:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+
+    /* ----- record -> editable values ----- */
+    function fromRecord(item) {
+      const r = item.rec;
+      if (item.kind === "place") {
+        return { name: r.name, type: PLACE, url: r.website || "", date: "", dateKind: "deadline",
+                 location: [r.city, r.state].filter(Boolean).join(", "), grades: "" };
+      }
+      const states = r.eligible_states || [];
+      const location = r.format === "Online" ? "Online" : states.includes("ALL") || !states.length ? "Nationwide" : states.join(", ");
+      const date = r.deadline || r.event_start || "";
+      return { name: r.name, type: TYPES.includes(r.category) ? r.category : "", url: r.official_url || "",
+               date, dateKind: r.deadline ? "deadline" : r.event_start ? "event_start" : "event_start",
+               location, grades: gradeText(r.min_grade, r.max_grade) };
+    }
+    const isPlace = () => S.mode === "fix" && S.fix.rec && S.fix.rec.kind === "place";
+
+    /* ----- change detection (Fix mode) ----- */
+    function changed(k) {
+      const s = S.fix, o = s.orig;
+      if (!o) return false;
+      if (k === "date") return norm(s.date) !== norm(o.date) || (!!s.date && s.dateKind !== o.dateKind);
+      if (k === "url") return s.url.trim() !== o.url.trim();
+      return norm(s[k]) !== norm(o[k]);
+    }
+    const changedKeys = () => ["name", "type", "url", "date", "location", "grades"].filter(changed);
+
+    /* ----- JSON entries ----- */
+    function entriesFor(s, keys) {
+      const out = [], place = S.mode === "fix" && s.rec && s.rec.kind === "place";
+      for (const k of keys) {
+        const v = s[k].trim();
+        if (k === "name") out.push(["name", v]);
+        else if (k === "url") out.push([place ? "website" : "official_url", v]);
+        else if (k === "type") out.push(["category", v.startsWith("Place") ? "Place" : v]);
+        else if (k === "date") out.push([s.dateKind, v]);
+        else if (k === "location") out.push(/^online$/i.test(v) ? ["format", "Online"] : ["location", v]);
+        else if (k === "grades") {
+          const g = parseGrades(v);
+          if (g) out.push(["min_grade", g[0]], ["max_grade", g[1]]);
+          else if (!v) out.push(["min_grade", null], ["max_grade", null]);
+        }
+      }
+      return out;
+    }
+    function previewEntries() {
+      const s = cur();
+      if (S.mode === "add") {
+        const keys = ["name", "url", "type", "date", "location", "grades"].filter(k => s[k].trim() || ["name", "url", "type"].includes(k));
+        const out = [];
+        for (const k of keys) {
+          if (!s[k].trim()) out.push([{ name: "name", url: "official_url", type: "category" }[k], null]);
+          else out.push(...entriesFor(s, [k]));
+        }
+        if (s.note.trim()) out.push(["note", s.note.trim()]);
+        return out;
+      }
+      if (!s.rec) return null;
+      const out = [["id", s.rec.rec.id]];
+      out.push(...entriesFor(s, changedKeys()));
+      out.push(["source_url", s.source.trim() || null]);
+      if (s.note.trim()) out.push(["note", s.note.trim()]);
+      return out;
+    }
+
+    /* ----- validation ----- */
+    function validate() {
+      const s = cur(), e = {};
+      if (S.mode === "add") {
+        if (!s.name.trim()) e.name = "Add the event's name.";
+        if (!s.url.trim()) e.url = "Add the official link.";
+        else if (!isUrl(s.url)) e.url = "That doesn't look like a web link. Start with https://";
+        if (!s.type) e.type = "Pick the closest type.";
+      } else {
+        if (!s.rec) e.rec = "Pick the event you want to fix.";
+        else {
+          const keys = changedKeys();
+          if (!s.name.trim()) e.name = "The name can't be empty.";
+          if (!s.url.trim()) { if (s.orig.url) e.url = "To remove a link, say so in the note instead."; }
+          else if (changed("url") && !isUrl(s.url)) e.url = "That doesn't look like a web link. Start with https://";
+          if (!keys.length) e.changes = "Change at least one detail above, then add where the correct info comes from.";
+          if (!s.source.trim()) e.source = "Add the page that shows the correct info.";
+          else if (!isUrl(s.source)) e.source = "That doesn't look like a web link. Start with https://";
+        }
+      }
+      if (s.grades.trim() && !parseGrades(s.grades) && !(S.mode === "fix" && !changed("grades"))) e.grades = "Use a grade or range from 1 to 12, like 9-12.";
+      return e;
+    }
+
+    /* ----- GitHub URL ----- */
+    function buildUrl() {
+      const s = cur(); let template, params;
+      if (S.mode === "add") {
+        template = "add-an-opportunity.yml";
+        params = { title: "Add: " + s.name.trim(), name: s.name.trim(), url: s.url.trim(), kind: s.type,
+                   date: s.date ? `${s.date} (${kindLabel(s.dateKind)})` : "", location: s.location.trim(),
+                   grades: s.grades.trim(), details: s.note.trim() };
+      } else {
+        template = "fix-a-record.yml";
+        const id = s.rec.rec.id, keys = changedKeys();
+        const lines = keys.map(k => `- ${LABELS[k]}${k === "date" ? ` (${kindLabel(s.dateKind)})` : ""}: ${s.orig[k] || "(empty)"} → ${s[k].trim() || "(empty)"}`);
+        if (s.note.trim()) lines.push("", "Note: " + s.note.trim());
+        const changes = Object.fromEntries([["id", id], ...entriesFor(s, keys)]);
+        params = { title: `Fix: ${s.name.trim() || s.orig.name} (${id})`, record: `${id} · ${s.orig.name}`,
+                   problem: lines.join("\n"), changes: JSON.stringify(changes, null, 2), source: s.source.trim() };
+      }
+      const make = () => `https://github.com/${REPO}/issues/new?template=${template}&` +
+        Object.entries(params).filter(([, v]) => v).map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join("&");
+      let url = make();
+      for (let i = 0; i < 30 && url.length > MAX_URL; i++) { // trim the longest free-text value until it fits
+        const k = ["details", "problem", "changes"].filter(x => params[x]).sort((a, b) => params[b].length - params[a].length)[0];
+        if (!k) break;
+        params[k] = params[k].slice(0, Math.floor(params[k].length * 0.7)) + "…";
+        url = make();
+      }
+      return url;
+    }
+
+    /* ----- render ----- */
+    const J = (cls, text) => { const sp = document.createElement("span"); sp.className = cls; sp.textContent = text; return sp; };
+    function renderPreview() {
+      const entries = previewEntries(), s = cur(), fixMode = S.mode === "fix";
+      el.chip.textContent = fixMode ? (s.rec ? `Fix · ${s.rec.rec.id}` : "Fix") : "New event";
+      el.chip.className = "chip" + (fixMode && s.demo ? " demo-chip" : "");
+      if (fixMode && s.demo) el.chip.textContent = "Demo example";
+      el.json.replaceChildren();
+      if (!entries) { el.json.append(J("jv miss", "{ … }\nPick an event to see what changes.")); return; }
+      const changedJsonKeys = new Set(fixMode ? entriesFor(s, changedKeys()).map(e => e[0]) : []);
+      el.json.append("{\n");
+      entries.forEach(([k, v], i) => {
+        el.json.append("  ", J("jk", `"${k}"`), ": ");
+        const missing = v == null && !["min_grade", "max_grade"].includes(k);
+        el.json.append(J("jv" + (missing ? " miss" : "") + (changedJsonKeys.has(k) ? " chg" : ""),
+          missing ? '"…"' : JSON.stringify(v)), i < entries.length - 1 ? ",\n" : "\n");
+      });
+      el.json.append("}");
+    }
+    function renderFields() {
+      const s = cur(), fix = S.mode === "fix", place = isPlace(), errs = validate();
+      el.searchbox.hidden = !fix;
+      el.source.hidden = !fix;
+      const ready = !fix || !!s.rec;
+      el.fields.hidden = !ready;
+      el.empty.hidden = ready || !fix;
+      $("fld-note").classList.toggle("wide", false);
+      for (const k of ["date", "grades", "type"]) $("fld-" + k).querySelectorAll("input,select").forEach(i => { i.disabled = place; });
+      el.kind.disabled = place;
+      el.date.placeholder = "";
+      el.grades.placeholder = place ? "n/a for places" : "e.g. 9-12";
+      el.name.placeholder = fix ? "" : "Regional Robotics Showcase 2027";
+      for (const k of ["name", "type", "url", "date", "location", "grades"]) {
+        const box = $("fld-" + k), was = $("w-" + k), isCh = fix && changed(k);
+        box.classList.toggle("changed", isCh);
+        was.hidden = !isCh;
+        if (isCh) {
+          const old = s.orig[k] || "(empty)";
+          was.replaceChildren(J("tag", "Changed"), "was ", Object.assign(document.createElement("s"), { textContent: old }));
+          was.title = "Current catalog value: " + old;
+        }
+        const show = s.attempted || s.touched.has(k), msg = show ? errs[k] : "";
+        $("e-" + k).textContent = msg || "";
+        box.classList.toggle("invalid", !!msg);
+      }
+      const showSrc = s.attempted || s.touched.has("source");
+      $("e-source").textContent = showSrc ? errs.source || "" : "";
+      $("fld-source").classList.toggle("invalid", showSrc && !!errs.source);
+      el.eChanges.textContent = s.attempted ? errs.changes || "" : "";
+      el.eRec.textContent = s.attempted ? errs.rec || "" : "";
+      el.demo.setAttribute("aria-pressed", String(fix && s.demo));
+    }
+    function render() {
+      renderFields(); renderPreview();
+      const ok = !Object.keys(validate()).length;
+      el.submit.href = ok ? buildUrl() : "#suggest";
+      el.submit.title = ok ? "Opens a pre-filled GitHub issue in a new tab" : "";
+    }
+
+    /* ----- inputs <-> state ----- */
+    function writeInputs() {
+      const s = cur();
+      el.name.value = s.name; el.type.value = s.type; el.url.value = s.url; el.date.value = s.date;
+      el.kind.value = s.dateKind; el.location.value = s.location; el.grades.value = s.grades; el.note.value = s.note;
+      el.srcInput.value = s.source;
+      el.picked.hidden = !(S.mode === "fix" && s.rec);
+      if (!el.picked.hidden) {
+        const r = s.rec.rec;
+        el.picked.replaceChildren("Editing ", Object.assign(document.createElement("b"), { textContent: r.id }),
+          ` · ${s.rec.kind === "place" ? r.place_type : r.category} · current values loaded`);
+      }
+      el.q.value = S.mode === "fix" && s.rec ? s.rec.rec.name : S.fix.query || "";
+    }
+    const bind = (input, key) => {
+      input.addEventListener("input", () => { cur()[key] = input.value; hideStatus(); render(); });
+      input.addEventListener("blur", () => { cur().touched.add(key === "dateKind" ? "date" : key); render(); });
+    };
+    [[el.name, "name"], [el.type, "type"], [el.url, "url"], [el.date, "date"], [el.kind, "dateKind"],
+     [el.location, "location"], [el.grades, "grades"], [el.note, "note"], [el.srcInput, "source"]].forEach(([i, k]) => bind(i, k));
+    el.type.addEventListener("change", () => { cur().type = el.type.value; render(); });
+    el.date.addEventListener("change", () => { cur().date = el.date.value; render(); });
+
+    function hideStatus() { el.status.textContent = ""; el.status.className = "s-status"; }
+    function setMode(mode) {
+      S.mode = mode;
+      for (const m of ["add", "fix"]) el[m].setAttribute("aria-selected", String(m === mode));
+      hideStatus(); closeCombo(); writeInputs(); render();
+    }
+    el.add.addEventListener("click", () => setMode("add"));
+    el.fix.addEventListener("click", () => setMode("fix"));
+
+    /* ----- autocomplete ----- */
+    let hits = [], active = -1;
+    function search(query) {
+      const q = norm(query);
+      if (!q) return [];
+      const score = (name, id) => {
+        const n = norm(name);
+        if (id.toLowerCase() === q) return 0;
+        if (n.startsWith(q)) return 1;
+        if (n.split(/[^a-z0-9]+/).some(w => w.startsWith(q))) return 2;
+        if (n.includes(q)) return 3;
+        return q.split(" ").every(t => n.includes(t) || id.includes(t)) ? 4 : 9;
+      };
+      return [...opps.map(rec => ({ kind: "opp", rec })), ...places.map(rec => ({ kind: "place", rec }))]
+        .map(it => ({ it, sc: score(it.rec.name, it.rec.id) })).filter(x => x.sc < 9)
+        .sort((a, b) => a.sc - b.sc || (a.it.kind === "opp" ? 0 : 1) - (b.it.kind === "opp" ? 0 : 1)).slice(0, 6).map(x => x.it);
+    }
+    function openCombo() {
+      el.combo.replaceChildren();
+      hits.forEach((h, i) => {
+        const li = document.createElement("li"), r = h.rec;
+        li.id = "opt-" + i; li.setAttribute("role", "option"); li.setAttribute("aria-selected", String(i === active));
+        const t = document.createElement("div"); t.className = "t"; t.textContent = r.name;
+        const m = document.createElement("div"); m.className = "meta";
+        const when = h.kind === "place" ? [r.city, r.state].filter(Boolean).join(", ") : r.deadline ? `Deadline ${r.deadline}` : r.event_start ? `Starts ${r.event_start}` : "Date not listed";
+        m.append(J("pill", h.kind === "place" ? r.place_type : r.category), `${r.id} · ${when}`);
+        li.append(t, m);
+        li.addEventListener("mousedown", ev => { ev.preventDefault(); pick(h); });
+        el.combo.append(li);
+      });
+      const none = !hits.length && norm(el.q.value);
+      if (none) { const li = document.createElement("li"); li.className = "meta"; li.textContent = "No match. Try fewer words, or switch to Add an event."; li.style.cursor = "default"; el.combo.append(li); }
+      el.combo.hidden = !hits.length && !none;
+      el.q.setAttribute("aria-expanded", String(!el.combo.hidden));
+      if (active >= 0) el.q.setAttribute("aria-activedescendant", "opt-" + active); else el.q.removeAttribute("aria-activedescendant");
+    }
+    function closeCombo() { el.combo.hidden = true; active = -1; el.q.setAttribute("aria-expanded", "false"); }
+    el.q.addEventListener("input", () => {
+      S.fix.query = el.q.value; hits = search(el.q.value); active = hits.length ? 0 : -1; openCombo();
+    });
+    el.q.addEventListener("focus", () => { if (S.fix.rec) el.q.select(); });
+    el.q.addEventListener("blur", () => { closeCombo(); if (S.fix.rec) el.q.value = S.fix.rec.rec.name; });
+    el.q.addEventListener("keydown", ev => {
+      if (ev.key === "ArrowDown" || ev.key === "ArrowUp") {
+        if (!hits.length) return;
+        ev.preventDefault();
+        active = (active + (ev.key === "ArrowDown" ? 1 : -1) + hits.length) % hits.length; openCombo();
+      } else if (ev.key === "Enter" && active >= 0 && !el.combo.hidden) { ev.preventDefault(); pick(hits[active]); }
+      else if (ev.key === "Escape") closeCombo();
+    });
+    function pick(item) {
+      const s = S.fix, o = fromRecord(item);
+      Object.assign(s, o, { rec: item, orig: { ...o }, source: "", note: "", demo: false, attempted: false, touched: new Set() });
+      closeCombo(); writeInputs(); hideStatus(); render();
+      el.q.blur();
+    }
+
+    /* ----- demo ----- */
+    async function runDemo() {
+      await dataReady;
+      const rec = opps.find(o => o.id === "opp_000031") || opps.find(o => o.event_start || o.deadline);
+      if (!rec) return;
+      setMode("fix");
+      pick({ kind: "opp", rec });
+      const s = S.fix, o = s.orig;
+      // Labeled example: shift the date by two days and point to the record's own regional-fairs page.
+      if (o.date) s.date = addDays(o.date, 2);
+      if (rec.source_url && rec.source_url !== rec.official_url) s.url = rec.source_url;
+      s.source = rec.source_url || rec.official_url || "";
+      s.note = "Demo example, not a real correction.";
+      s.demo = true;
+      writeInputs(); render();
+      el.status.textContent = "Demo example: sample values, not a real correction. Nothing is sent until you open GitHub and press Submit there.";
+      el.status.className = "s-status";
+    }
+    el.demo.addEventListener("click", runDemo);
+
+    /* ----- submit ----- */
+    el.submit.addEventListener("click", ev => {
+      const s = cur(), errs = validate();
+      if (Object.keys(errs).length) {
+        ev.preventDefault(); s.attempted = true; render();
+        const first = ["rec", "name", "url", "type", "changes", "source", "grades"].find(k => errs[k]);
+        const target = { rec: el.q, name: el.name, url: el.url, type: el.type, changes: el.name, source: el.srcInput, grades: el.grades }[first];
+        if (target) target.focus();
+        el.status.textContent = "Almost there. Fix the highlighted items, then try again.";
+        el.status.className = "s-status bad";
+        return;
+      }
+      el.submit.href = buildUrl();
+      el.status.textContent = "Opened GitHub in a new tab. Nothing is sent until you press “Submit new issue” there.";
+      el.status.className = "s-status good";
+    });
+
+    writeInputs(); render();
+  })();
+</script>
+</body>
+</html>

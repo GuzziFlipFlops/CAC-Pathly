@@ -1,0 +1,3867 @@
+{
+  "generated_on": "2026-08-24",
+  "instructions": "Provide official event artwork when available; otherwise provide the organization logo. Suggested asset names are stable and map directly to image_asset_name.",
+  "total_missing_opportunity_visuals": 386,
+  "opportunities": [
+    {
+      "opportunity_id": "opp_000001",
+      "opportunity_name": "Toshiba America Foundation Grades 6–12 STEM Grants",
+      "organization_id": "org_000056",
+      "organization_name": "Toshiba America Foundation",
+      "suggested_asset_name": "opp_000001_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000056_logo"
+    },
+    {
+      "opportunity_id": "opp_000002",
+      "opportunity_name": "FIRST Team Grant Opportunities",
+      "organization_id": "org_000057",
+      "organization_name": "FIRST",
+      "suggested_asset_name": "opp_000002_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000057_logo"
+    },
+    {
+      "opportunity_id": "opp_000003",
+      "opportunity_name": "BAE Systems FIRST Robotics Competition Team Grant",
+      "organization_id": "org_000058",
+      "organization_name": "BAE Systems",
+      "suggested_asset_name": "opp_000003_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000058_logo"
+    },
+    {
+      "opportunity_id": "opp_000004",
+      "opportunity_name": "Boston Scientific FIRST Robotics Competition Grant",
+      "organization_id": "org_000059",
+      "organization_name": "Boston Scientific",
+      "suggested_asset_name": "opp_000004_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000059_logo"
+    },
+    {
+      "opportunity_id": "opp_000005",
+      "opportunity_name": "Lemelson-MIT InvenTeams",
+      "organization_id": "org_000060",
+      "organization_name": "Lemelson-MIT Program",
+      "suggested_asset_name": "opp_000005_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000060_logo"
+    },
+    {
+      "opportunity_id": "opp_000006",
+      "opportunity_name": "AIAA Foundation Classroom Grants",
+      "organization_id": "org_000061",
+      "organization_name": "American Institute of Aeronautics and Astronautics",
+      "suggested_asset_name": "opp_000006_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000061_logo"
+    },
+    {
+      "opportunity_id": "opp_000007",
+      "opportunity_name": "NESTA Planet Stewards 2027 Cohort",
+      "organization_id": "org_000062",
+      "organization_name": "National Earth Science Teachers Association",
+      "suggested_asset_name": "opp_000007_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000062_logo"
+    },
+    {
+      "opportunity_id": "opp_000008",
+      "opportunity_name": "October 2026 EPICS in IEEE Call for Proposals",
+      "organization_id": "org_000063",
+      "organization_name": "IEEE",
+      "suggested_asset_name": "opp_000008_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000063_logo"
+    },
+    {
+      "opportunity_id": "opp_000009",
+      "opportunity_name": "Delaware Education Resource Grant",
+      "organization_id": "org_000064",
+      "organization_name": "Delaware Division of the Arts",
+      "suggested_asset_name": "opp_000009_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000064_logo"
+    },
+    {
+      "opportunity_id": "opp_000010",
+      "opportunity_name": "Planeteer Alliance",
+      "organization_id": "org_000065",
+      "organization_name": "Captain Planet Foundation",
+      "suggested_asset_name": "opp_000010_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000065_logo"
+    },
+    {
+      "opportunity_id": "opp_000011",
+      "opportunity_name": "Delaware 4-H Youth Development",
+      "organization_id": "org_000066",
+      "organization_name": "University of Delaware Cooperative Extension",
+      "suggested_asset_name": "opp_000011_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000066_logo"
+    },
+    {
+      "opportunity_id": "opp_000012",
+      "opportunity_name": "Delaware Pathways",
+      "organization_id": "org_000067",
+      "organization_name": "Delaware Pathways",
+      "suggested_asset_name": "opp_000012_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000067_logo"
+    },
+    {
+      "opportunity_id": "opp_000013",
+      "opportunity_name": "Volunteer Delaware Opportunity Network",
+      "organization_id": "org_000068",
+      "organization_name": "Volunteer Delaware",
+      "suggested_asset_name": "opp_000013_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000068_logo"
+    },
+    {
+      "opportunity_id": "opp_000014",
+      "opportunity_name": "DonorsChoose Classroom Projects",
+      "organization_id": "org_000069",
+      "organization_name": "DonorsChoose",
+      "suggested_asset_name": "opp_000014_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000069_logo"
+    },
+    {
+      "opportunity_id": "opp_000015",
+      "opportunity_name": "Walmart Spark Good Local Grants",
+      "organization_id": "org_000070",
+      "organization_name": "Walmart",
+      "suggested_asset_name": "opp_000015_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000070_logo"
+    },
+    {
+      "opportunity_id": "opp_000016",
+      "opportunity_name": "Awesome Foundation Microgrants",
+      "organization_id": "org_000071",
+      "organization_name": "The Awesome Foundation",
+      "suggested_asset_name": "opp_000016_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000071_logo"
+    },
+    {
+      "opportunity_id": "opp_000017",
+      "opportunity_name": "Nova Labs MakerSchool Camps and Classes",
+      "organization_id": "org_000054",
+      "organization_name": "Nova Labs, Inc.",
+      "suggested_asset_name": "opp_000017_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000054_logo"
+    },
+    {
+      "opportunity_id": "opp_000018",
+      "opportunity_name": "Maine State Science Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000018_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000019",
+      "opportunity_name": "New Hampshire Science & Engineering Expo — High School",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000019_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000020",
+      "opportunity_name": "New Hampshire Middle School Science Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000020_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000021",
+      "opportunity_name": "Vermont STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000021_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000022",
+      "opportunity_name": "Vermont Invention Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000022_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000023",
+      "opportunity_name": "Rhode Island Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000023_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000024",
+      "opportunity_name": "Massachusetts Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000024_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000025",
+      "opportunity_name": "Connecticut Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000025_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000026",
+      "opportunity_name": "CT-STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000026_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000027",
+      "opportunity_name": "Terra NYC STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000027_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000028",
+      "opportunity_name": "Long Island Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000028_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000029",
+      "opportunity_name": "New York State Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000029_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000030",
+      "opportunity_name": "Jersey Shore Science Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000030_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000031",
+      "opportunity_name": "Delaware Valley Science Fairs",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000031_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000032",
+      "opportunity_name": "Pittsburgh Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000032_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000033",
+      "opportunity_name": "Montgomery County Science Fair / ScienceMontgomery",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000033_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000034",
+      "opportunity_name": "Maryland STEM Festival",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000034_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000035",
+      "opportunity_name": "Northern Virginia Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000035_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000036",
+      "opportunity_name": "Virginia State Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000036_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000037",
+      "opportunity_name": "North Carolina Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000037_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000038",
+      "opportunity_name": "North Carolina Student Academy of Science",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000038_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000039",
+      "opportunity_name": "UNC Charlotte NCSEF Region 6",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000039_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000040",
+      "opportunity_name": "Georgia Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000040_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000041",
+      "opportunity_name": "Georgia State K–5 Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000041_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000042",
+      "opportunity_name": "State Science & Engineering Fair of Florida",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000042_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000043",
+      "opportunity_name": "California Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000043_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000044",
+      "opportunity_name": "Sacramento Regional STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000044_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000045",
+      "opportunity_name": "Los Angeles County Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000045_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000046",
+      "opportunity_name": "Greater San Diego Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000046_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000047",
+      "opportunity_name": "Alameda County Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000047_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000048",
+      "opportunity_name": "Golden Gate STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000048_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000049",
+      "opportunity_name": "Doris Niles Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000049_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000050",
+      "opportunity_name": "Orange County Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000050_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000051",
+      "opportunity_name": "San Mateo County STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000051_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000052",
+      "opportunity_name": "Synopsys Silicon Valley Science & Technology Championship",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000052_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000053",
+      "opportunity_name": "Washington State Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000053_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000054",
+      "opportunity_name": "Eastern Washington Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000054_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000055",
+      "opportunity_name": "Beaverton-Hillsboro STEM Expo",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000055_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000056",
+      "opportunity_name": "CREST-Jane Goodall Science Symposium",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000056_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000057",
+      "opportunity_name": "Oregon MESA",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000057_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000058",
+      "opportunity_name": "California MESA",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000058_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000059",
+      "opportunity_name": "Washington MESA",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000059_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000060",
+      "opportunity_name": "Minnesota State Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000060_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000061",
+      "opportunity_name": "North Dakota State Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000061_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000062",
+      "opportunity_name": "Northwest North Dakota Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000062_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000063",
+      "opportunity_name": "Southwest/Central North Dakota Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000063_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000064",
+      "opportunity_name": "Southeast North Dakota Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000064_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000065",
+      "opportunity_name": "Eastern South Dakota Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000065_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000066",
+      "opportunity_name": "High Plains Regional Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000066_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000067",
+      "opportunity_name": "Greater Kansas City Science & Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000067_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000068",
+      "opportunity_name": "Show-Me SCIENCE",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000068_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000069",
+      "opportunity_name": "Central Illinois STEM Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000069_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000070",
+      "opportunity_name": "State Science and Technology Fair of Iowa",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000070_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000071",
+      "opportunity_name": "Chicago Exhibition of Student STEM Research",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000071_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000072",
+      "opportunity_name": "Flint Regional Science and Engineering Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000072_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000073",
+      "opportunity_name": "Science and Engineering Fair of Metropolitan Detroit",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000073_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000074",
+      "opportunity_name": "St. Louis Regional Science Fair",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000074_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000075",
+      "opportunity_name": "Ohio Academy of Science State Science Day",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000075_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000076",
+      "opportunity_name": "Hack Club Stardance",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000076_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000077",
+      "opportunity_name": "Hack Club Aria",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000077_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000078",
+      "opportunity_name": "Hack Club Horizons",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000078_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000079",
+      "opportunity_name": "Hack Club Keeb",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000079_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000080",
+      "opportunity_name": "Hack Club Sunbeam",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000080_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000081",
+      "opportunity_name": "Hack Club Gadget Market",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000081_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000082",
+      "opportunity_name": "Hack Club Future",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000082_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000083",
+      "opportunity_name": "Hack Club Wrangler",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000083_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000084",
+      "opportunity_name": "Hack Club Suncatcher",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000084_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000085",
+      "opportunity_name": "Hack Club Folktale",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000085_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000086",
+      "opportunity_name": "Hack Club CloudFALL",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000086_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000087",
+      "opportunity_name": "Hack Club Hackcraft",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000087_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000088",
+      "opportunity_name": "Hack Club Boba Drops",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000088_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000089",
+      "opportunity_name": "Hack Club Clubs",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000089_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000090",
+      "opportunity_name": "Hack Club Summer of Making 2025",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000090_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000091",
+      "opportunity_name": "Hack Club Highway",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000091_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000092",
+      "opportunity_name": "Hack Club Undercity",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000092_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000093",
+      "opportunity_name": "Hack Club Shipwrecked",
+      "organization_id": "org_000096",
+      "organization_name": "Hack Club",
+      "suggested_asset_name": "opp_000093_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000096_logo"
+    },
+    {
+      "opportunity_id": "opp_000094",
+      "opportunity_name": "Regeneron International Science and Engineering Fair (ISEF)",
+      "organization_id": "org_000116",
+      "organization_name": "Society for Science",
+      "suggested_asset_name": "opp_000094_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000116_logo"
+    },
+    {
+      "opportunity_id": "opp_000095",
+      "opportunity_name": "Thermo Fisher Scientific Junior Innovators Challenge",
+      "organization_id": "org_000116",
+      "organization_name": "Society for Science",
+      "suggested_asset_name": "opp_000095_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000116_logo"
+    },
+    {
+      "opportunity_id": "opp_000096",
+      "opportunity_name": "Regeneron Science Talent Search 2027",
+      "organization_id": "org_000116",
+      "organization_name": "Society for Science",
+      "suggested_asset_name": "opp_000096_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000116_logo"
+    },
+    {
+      "opportunity_id": "opp_000097",
+      "opportunity_name": "Junior Science and Humanities Symposium (JSHS)",
+      "organization_id": "org_000097",
+      "organization_name": "JSHS",
+      "suggested_asset_name": "opp_000097_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000097_logo"
+    },
+    {
+      "opportunity_id": "opp_000098",
+      "opportunity_name": "Davidson Fellows Scholarship",
+      "organization_id": "org_000092",
+      "organization_name": "Davidson Institute",
+      "suggested_asset_name": "opp_000098_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000092_logo"
+    },
+    {
+      "opportunity_id": "opp_000099",
+      "opportunity_name": "Conrad Challenge",
+      "organization_id": "org_000089",
+      "organization_name": "Conrad Foundation",
+      "suggested_asset_name": "opp_000099_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000089_logo"
+    },
+    {
+      "opportunity_id": "opp_000100",
+      "opportunity_name": "ExploraVision",
+      "organization_id": "org_000123",
+      "organization_name": "Toshiba / NSTA",
+      "suggested_asset_name": "opp_000100_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000123_logo"
+    },
+    {
+      "opportunity_id": "opp_000101",
+      "opportunity_name": "Genes in Space",
+      "organization_id": "org_000095",
+      "organization_name": "Genes in Space",
+      "suggested_asset_name": "opp_000101_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000095_logo"
+    },
+    {
+      "opportunity_id": "opp_000102",
+      "opportunity_name": "3M Young Scientist Challenge",
+      "organization_id": "org_000072",
+      "organization_name": "3M and Discovery Education",
+      "suggested_asset_name": "opp_000102_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000072_logo"
+    },
+    {
+      "opportunity_id": "opp_000103",
+      "opportunity_name": "National Science Bowl",
+      "organization_id": "org_000125",
+      "organization_name": "U.S. Department of Energy",
+      "suggested_asset_name": "opp_000103_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000125_logo"
+    },
+    {
+      "opportunity_id": "opp_000104",
+      "opportunity_name": "Science Olympiad",
+      "organization_id": "org_000114",
+      "organization_name": "Science Olympiad",
+      "suggested_asset_name": "opp_000104_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000114_logo"
+    },
+    {
+      "opportunity_id": "opp_000105",
+      "opportunity_name": "Breakthrough Junior Challenge 2026",
+      "organization_id": "org_000084",
+      "organization_name": "Breakthrough Prize Foundation",
+      "suggested_asset_name": "opp_000105_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000084_logo"
+    },
+    {
+      "opportunity_id": "opp_000106",
+      "opportunity_name": "eCYBERMISSION 2026–2027",
+      "organization_id": "org_000124",
+      "organization_name": "U.S. Army Educational Outreach Program",
+      "suggested_asset_name": "opp_000106_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000124_logo"
+    },
+    {
+      "opportunity_id": "opp_000107",
+      "opportunity_name": "National STEM Festival 2027",
+      "organization_id": "org_000093",
+      "organization_name": "EXPLR",
+      "suggested_asset_name": "opp_000107_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000093_logo"
+    },
+    {
+      "opportunity_id": "opp_000108",
+      "opportunity_name": "NASA App Development Challenge",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000108_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000109",
+      "opportunity_name": "NASA TechRise Student Challenge",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000109_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000110",
+      "opportunity_name": "NASA HUNCH",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000110_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000111",
+      "opportunity_name": "NASA Student Launch",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000111_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000112",
+      "opportunity_name": "Texas High School Aerospace Scholars",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000112_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000113",
+      "opportunity_name": "NASA Dream with Us Design Challenge",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000113_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000114",
+      "opportunity_name": "NASA International Space Apps Challenge 2026",
+      "organization_id": "org_000104",
+      "organization_name": "NASA",
+      "suggested_asset_name": "opp_000114_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000104_logo"
+    },
+    {
+      "opportunity_id": "opp_000115",
+      "opportunity_name": "Swift Student Challenge 2026",
+      "organization_id": "org_000080",
+      "organization_name": "Apple",
+      "suggested_asset_name": "opp_000115_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000080_logo"
+    },
+    {
+      "opportunity_id": "opp_000116",
+      "opportunity_name": "Congressional App Challenge 2026",
+      "organization_id": "org_000088",
+      "organization_name": "Congressional App Challenge",
+      "suggested_asset_name": "opp_000116_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000088_logo"
+    },
+    {
+      "opportunity_id": "opp_000117",
+      "opportunity_name": "Technovation Girls",
+      "organization_id": "org_000120",
+      "organization_name": "Technovation",
+      "suggested_asset_name": "opp_000117_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000120_logo"
+    },
+    {
+      "opportunity_id": "opp_000118",
+      "opportunity_name": "CyberPatriot",
+      "organization_id": "org_000074",
+      "organization_name": "Air & Space Forces Association",
+      "suggested_asset_name": "opp_000118_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000074_logo"
+    },
+    {
+      "opportunity_id": "opp_000119",
+      "opportunity_name": "picoCTF 2026",
+      "organization_id": "org_000086",
+      "organization_name": "Carnegie Mellon University",
+      "suggested_asset_name": "opp_000119_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000086_logo"
+    },
+    {
+      "opportunity_id": "opp_000120",
+      "opportunity_name": "American Computer Science League 2026–2027",
+      "organization_id": "org_000078",
+      "organization_name": "American Computer Science League",
+      "suggested_asset_name": "opp_000120_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000078_logo"
+    },
+    {
+      "opportunity_id": "opp_000121",
+      "opportunity_name": "USA Computing Olympiad (USACO)",
+      "organization_id": "org_000126",
+      "organization_name": "USACO",
+      "suggested_asset_name": "opp_000121_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000126_logo"
+    },
+    {
+      "opportunity_id": "opp_000122",
+      "opportunity_name": "AMC 10 2026",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000122_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000123",
+      "opportunity_name": "AMC 12 2026",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000123_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000124",
+      "opportunity_name": "AMC 8 2027",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000124_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000125",
+      "opportunity_name": "American Invitational Mathematics Examination (AIME)",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000125_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000126",
+      "opportunity_name": "USA Junior Mathematical Olympiad (USAJMO)",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000126_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000127",
+      "opportunity_name": "USA Mathematical Olympiad (USAMO)",
+      "organization_id": "org_000103",
+      "organization_name": "Mathematical Association of America",
+      "suggested_asset_name": "opp_000127_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000103_logo"
+    },
+    {
+      "opportunity_id": "opp_000128",
+      "opportunity_name": "F=ma Exam",
+      "organization_id": "org_000076",
+      "organization_name": "American Association of Physics Teachers",
+      "suggested_asset_name": "opp_000128_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000076_logo"
+    },
+    {
+      "opportunity_id": "opp_000129",
+      "opportunity_name": "U.S. Physics Olympiad (USAPhO)",
+      "organization_id": "org_000076",
+      "organization_name": "American Association of Physics Teachers",
+      "suggested_asset_name": "opp_000129_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000076_logo"
+    },
+    {
+      "opportunity_id": "opp_000130",
+      "opportunity_name": "USNCO Local Chemistry Competition",
+      "organization_id": "org_000077",
+      "organization_name": "American Chemical Society",
+      "suggested_asset_name": "opp_000130_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000077_logo"
+    },
+    {
+      "opportunity_id": "opp_000131",
+      "opportunity_name": "USNCO National Exam",
+      "organization_id": "org_000077",
+      "organization_name": "American Chemical Society",
+      "suggested_asset_name": "opp_000131_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000077_logo"
+    },
+    {
+      "opportunity_id": "opp_000132",
+      "opportunity_name": "USABO Open Exam",
+      "organization_id": "org_000087",
+      "organization_name": "Center for Excellence in Education",
+      "suggested_asset_name": "opp_000132_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000087_logo"
+    },
+    {
+      "opportunity_id": "opp_000133",
+      "opportunity_name": "USABO Semifinal Exam",
+      "organization_id": "org_000087",
+      "organization_name": "Center for Excellence in Education",
+      "suggested_asset_name": "opp_000133_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000087_logo"
+    },
+    {
+      "opportunity_id": "opp_000134",
+      "opportunity_name": "USABO National Finals",
+      "organization_id": "org_000087",
+      "organization_name": "Center for Excellence in Education",
+      "suggested_asset_name": "opp_000134_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000087_logo"
+    },
+    {
+      "opportunity_id": "opp_000135",
+      "opportunity_name": "FIRST Robotics Competition 2026–2027",
+      "organization_id": "org_000057",
+      "organization_name": "FIRST",
+      "suggested_asset_name": "opp_000135_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000057_logo"
+    },
+    {
+      "opportunity_id": "opp_000136",
+      "opportunity_name": "FIRST Tech Challenge 2026–2027",
+      "organization_id": "org_000057",
+      "organization_name": "FIRST",
+      "suggested_asset_name": "opp_000136_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000057_logo"
+    },
+    {
+      "opportunity_id": "opp_000137",
+      "opportunity_name": "FIRST LEGO League",
+      "organization_id": "org_000057",
+      "organization_name": "FIRST",
+      "suggested_asset_name": "opp_000137_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000057_logo"
+    },
+    {
+      "opportunity_id": "opp_000138",
+      "opportunity_name": "VEX V5 Robotics Competition",
+      "organization_id": "org_000129",
+      "organization_name": "VEX Robotics",
+      "suggested_asset_name": "opp_000138_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000129_logo"
+    },
+    {
+      "opportunity_id": "opp_000139",
+      "opportunity_name": "VEX AI Competition",
+      "organization_id": "org_000129",
+      "organization_name": "VEX Robotics",
+      "suggested_asset_name": "opp_000139_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000129_logo"
+    },
+    {
+      "opportunity_id": "opp_000140",
+      "opportunity_name": "Aerial Drone Competition",
+      "organization_id": "org_000112",
+      "organization_name": "Robotics Education & Competition Foundation",
+      "suggested_asset_name": "opp_000140_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000112_logo"
+    },
+    {
+      "opportunity_id": "opp_000141",
+      "opportunity_name": "American Rocketry Challenge 2027",
+      "organization_id": "org_000073",
+      "organization_name": "Aerospace Industries Association",
+      "suggested_asset_name": "opp_000141_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000073_logo"
+    },
+    {
+      "opportunity_id": "opp_000142",
+      "opportunity_name": "SeaPerch Challenge",
+      "organization_id": "org_000111",
+      "organization_name": "RoboNation",
+      "suggested_asset_name": "opp_000142_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000111_logo"
+    },
+    {
+      "opportunity_id": "opp_000143",
+      "opportunity_name": "Botball Educational Robotics Program",
+      "organization_id": "org_000099",
+      "organization_name": "KISS Institute for Practical Robotics",
+      "suggested_asset_name": "opp_000143_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000099_logo"
+    },
+    {
+      "opportunity_id": "opp_000144",
+      "opportunity_name": "MATE ROV Competition",
+      "organization_id": "org_000100",
+      "organization_name": "MATE Inspiration for Innovation",
+      "suggested_asset_name": "opp_000144_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000100_logo"
+    },
+    {
+      "opportunity_id": "opp_000145",
+      "opportunity_name": "RoboCupJunior",
+      "organization_id": "org_000110",
+      "organization_name": "RoboCupJunior",
+      "suggested_asset_name": "opp_000145_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000110_logo"
+    },
+    {
+      "opportunity_id": "opp_000146",
+      "opportunity_name": "Real World Design Challenge",
+      "organization_id": "org_000109",
+      "organization_name": "Real World Design Challenge",
+      "suggested_asset_name": "opp_000146_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000109_logo"
+    },
+    {
+      "opportunity_id": "opp_000147",
+      "opportunity_name": "Diamond Challenge",
+      "organization_id": "org_000128",
+      "organization_name": "University of Delaware Horn Entrepreneurship",
+      "suggested_asset_name": "opp_000147_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000128_logo"
+    },
+    {
+      "opportunity_id": "opp_000148",
+      "opportunity_name": "Blue Ocean Student Entrepreneur Competition 2027",
+      "organization_id": "org_000082",
+      "organization_name": "Blue Ocean Competition",
+      "suggested_asset_name": "opp_000148_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000082_logo"
+    },
+    {
+      "opportunity_id": "opp_000149",
+      "opportunity_name": "Wharton Global High School Investment Competition 2026–2027",
+      "organization_id": "org_000130",
+      "organization_name": "Wharton Global Youth Program",
+      "suggested_asset_name": "opp_000149_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000130_logo"
+    },
+    {
+      "opportunity_id": "opp_000150",
+      "opportunity_name": "National Economics Challenge",
+      "organization_id": "org_000090",
+      "organization_name": "Council for Economic Education",
+      "suggested_asset_name": "opp_000150_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000090_logo"
+    },
+    {
+      "opportunity_id": "opp_000151",
+      "opportunity_name": "National Personal Finance Challenge",
+      "organization_id": "org_000090",
+      "organization_name": "Council for Economic Education",
+      "suggested_asset_name": "opp_000151_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000090_logo"
+    },
+    {
+      "opportunity_id": "opp_000152",
+      "opportunity_name": "DECA Competitive Events",
+      "organization_id": "org_000091",
+      "organization_name": "DECA",
+      "suggested_asset_name": "opp_000152_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000091_logo"
+    },
+    {
+      "opportunity_id": "opp_000153",
+      "opportunity_name": "FBLA Competitive Events",
+      "organization_id": "org_000094",
+      "organization_name": "Future Business Leaders of America",
+      "suggested_asset_name": "opp_000153_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000094_logo"
+    },
+    {
+      "opportunity_id": "opp_000154",
+      "opportunity_name": "Scholastic Art & Writing Awards 2027",
+      "organization_id": "org_000075",
+      "organization_name": "Alliance for Young Artists & Writers",
+      "suggested_asset_name": "opp_000154_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000075_logo"
+    },
+    {
+      "opportunity_id": "opp_000155",
+      "opportunity_name": "National History Day 2027",
+      "organization_id": "org_000106",
+      "organization_name": "National History Day",
+      "suggested_asset_name": "opp_000155_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000106_logo"
+    },
+    {
+      "opportunity_id": "opp_000156",
+      "opportunity_name": "C-SPAN StudentCam",
+      "organization_id": "org_000085",
+      "organization_name": "C-SPAN",
+      "suggested_asset_name": "opp_000156_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000085_logo"
+    },
+    {
+      "opportunity_id": "opp_000157",
+      "opportunity_name": "YoungArts 2027",
+      "organization_id": "org_000131",
+      "organization_name": "YoungArts",
+      "suggested_asset_name": "opp_000157_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000131_logo"
+    },
+    {
+      "opportunity_id": "opp_000158",
+      "opportunity_name": "Poetry Out Loud",
+      "organization_id": "org_000105",
+      "organization_name": "National Endowment for the Arts",
+      "suggested_asset_name": "opp_000158_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000105_logo"
+    },
+    {
+      "opportunity_id": "opp_000159",
+      "opportunity_name": "Profile in Courage Essay Contest 2027",
+      "organization_id": "org_000098",
+      "organization_name": "John F. Kennedy Library Foundation",
+      "suggested_asset_name": "opp_000159_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000098_logo"
+    },
+    {
+      "opportunity_id": "opp_000160",
+      "opportunity_name": "AFSA National High School Essay Contest",
+      "organization_id": "org_000079",
+      "organization_name": "American Foreign Service Association",
+      "suggested_asset_name": "opp_000160_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000079_logo"
+    },
+    {
+      "opportunity_id": "opp_000161",
+      "opportunity_name": "NSDA National Speech & Debate Tournament",
+      "organization_id": "org_000108",
+      "organization_name": "National Speech & Debate Association",
+      "suggested_asset_name": "opp_000161_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000108_logo"
+    },
+    {
+      "opportunity_id": "opp_000162",
+      "opportunity_name": "American Legion Oratorical Contest",
+      "organization_id": "org_000122",
+      "organization_name": "The American Legion",
+      "suggested_asset_name": "opp_000162_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000122_logo"
+    },
+    {
+      "opportunity_id": "opp_000163",
+      "opportunity_name": "Research Science Institute (RSI)",
+      "organization_id": "org_000087",
+      "organization_name": "Center for Excellence in Education",
+      "suggested_asset_name": "opp_000163_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000087_logo"
+    },
+    {
+      "opportunity_id": "opp_000164",
+      "opportunity_name": "MITES Summer",
+      "organization_id": "org_000101",
+      "organization_name": "MIT",
+      "suggested_asset_name": "opp_000164_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000101_logo"
+    },
+    {
+      "opportunity_id": "opp_000165",
+      "opportunity_name": "Summer Science Program",
+      "organization_id": "org_000119",
+      "organization_name": "Summer Science Program",
+      "suggested_asset_name": "opp_000165_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000119_logo"
+    },
+    {
+      "opportunity_id": "opp_000166",
+      "opportunity_name": "Simons Summer Research Program",
+      "organization_id": "org_000118",
+      "organization_name": "Stony Brook University",
+      "suggested_asset_name": "opp_000166_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000118_logo"
+    },
+    {
+      "opportunity_id": "opp_000167",
+      "opportunity_name": "Stanford Institutes of Medicine Summer Research Program (SIMR) 2027",
+      "organization_id": "org_000117",
+      "organization_name": "Stanford University",
+      "suggested_asset_name": "opp_000167_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000117_logo"
+    },
+    {
+      "opportunity_id": "opp_000168",
+      "opportunity_name": "Garcia Summer Research Program",
+      "organization_id": "org_000118",
+      "organization_name": "Stony Brook University",
+      "suggested_asset_name": "opp_000168_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000118_logo"
+    },
+    {
+      "opportunity_id": "opp_000169",
+      "opportunity_name": "Boston University RISE Internship",
+      "organization_id": "org_000083",
+      "organization_name": "Boston University",
+      "suggested_asset_name": "opp_000169_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000083_logo"
+    },
+    {
+      "opportunity_id": "opp_000170",
+      "opportunity_name": "Boston University RISE Practicum",
+      "organization_id": "org_000083",
+      "organization_name": "Boston University",
+      "suggested_asset_name": "opp_000170_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000083_logo"
+    },
+    {
+      "opportunity_id": "opp_000171",
+      "opportunity_name": "Clark Scholars Program",
+      "organization_id": "org_000121",
+      "organization_name": "Texas Tech University",
+      "suggested_asset_name": "opp_000171_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000121_logo"
+    },
+    {
+      "opportunity_id": "opp_000172",
+      "opportunity_name": "ASSIP High School Research Program",
+      "organization_id": "org_000055",
+      "organization_name": "George Mason University",
+      "suggested_asset_name": "opp_000172_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000055_logo"
+    },
+    {
+      "opportunity_id": "opp_000173",
+      "opportunity_name": "NIH Summer Internship Program — High School 2027",
+      "organization_id": "org_000107",
+      "organization_name": "National Institutes of Health",
+      "suggested_asset_name": "opp_000173_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000107_logo"
+    },
+    {
+      "opportunity_id": "opp_000174",
+      "opportunity_name": "AEOP High School Apprenticeships",
+      "organization_id": "org_000124",
+      "organization_name": "U.S. Army Educational Outreach Program",
+      "suggested_asset_name": "opp_000174_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000124_logo"
+    },
+    {
+      "opportunity_id": "opp_000175",
+      "opportunity_name": "Carnegie Mellon SAMS",
+      "organization_id": "org_000086",
+      "organization_name": "Carnegie Mellon University",
+      "suggested_asset_name": "opp_000175_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000086_logo"
+    },
+    {
+      "opportunity_id": "opp_000176",
+      "opportunity_name": "MIT Beaver Works Summer Institute",
+      "organization_id": "org_000102",
+      "organization_name": "MIT Lincoln Laboratory",
+      "suggested_asset_name": "opp_000176_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000102_logo"
+    },
+    {
+      "opportunity_id": "opp_000177",
+      "opportunity_name": "Bank of America Student Leaders",
+      "organization_id": "org_000081",
+      "organization_name": "Bank of America",
+      "suggested_asset_name": "opp_000177_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000081_logo"
+    },
+    {
+      "opportunity_id": "opp_000178",
+      "opportunity_name": "Yale Young Global Scholars",
+      "organization_id": "org_000007",
+      "organization_name": "Yale University",
+      "suggested_asset_name": "opp_000178_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000007_logo"
+    },
+    {
+      "opportunity_id": "opp_000179",
+      "opportunity_name": "NYU ARISE",
+      "organization_id": "org_000032",
+      "organization_name": "New York University",
+      "suggested_asset_name": "opp_000179_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000032_logo"
+    },
+    {
+      "opportunity_id": "opp_000180",
+      "opportunity_name": "UCSB Research Mentorship Program",
+      "organization_id": "org_000127",
+      "organization_name": "University of California, Santa Barbara",
+      "suggested_asset_name": "opp_000180_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000127_logo"
+    },
+    {
+      "opportunity_id": "opp_000181",
+      "opportunity_name": "Rockefeller Summer Science Research Program",
+      "organization_id": "org_000113",
+      "organization_name": "Rockefeller University",
+      "suggested_asset_name": "opp_000181_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000113_logo"
+    },
+    {
+      "opportunity_id": "opp_000182",
+      "opportunity_name": "SkillsUSA Championships",
+      "organization_id": "org_000115",
+      "organization_name": "SkillsUSA",
+      "suggested_asset_name": "opp_000182_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000115_logo"
+    },
+    {
+      "opportunity_id": "opp_000183",
+      "opportunity_name": "Northeast North Dakota Regional Science & Engineering Fair",
+      "organization_id": "org_000034",
+      "organization_name": "University of North Dakota",
+      "suggested_asset_name": "opp_000183_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000034_logo"
+    },
+    {
+      "opportunity_id": "opp_000184",
+      "opportunity_name": "CSU Cyber Camp",
+      "organization_id": "org_000132",
+      "organization_name": "Colorado State University",
+      "suggested_asset_name": "opp_000184_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000132_logo"
+    },
+    {
+      "opportunity_id": "opp_000185",
+      "opportunity_name": "IUP GenCyber",
+      "organization_id": "org_000133",
+      "organization_name": "Indiana University of Pennsylvania",
+      "suggested_asset_name": "opp_000185_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000133_logo"
+    },
+    {
+      "opportunity_id": "opp_000186",
+      "opportunity_name": "Aviation High School Aero Club (AMCAI)",
+      "organization_id": "org_000134",
+      "organization_name": "Aviation High School Aero Club",
+      "suggested_asset_name": "opp_000186_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000134_logo"
+    },
+    {
+      "opportunity_id": "opp_000187",
+      "opportunity_name": "REGISTERED MATH CLUBS",
+      "organization_id": "org_000135",
+      "organization_name": "MATHCOUNTS",
+      "suggested_asset_name": "opp_000187_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000135_logo"
+    },
+    {
+      "opportunity_id": "opp_000188",
+      "opportunity_name": "River Falls Robotics",
+      "organization_id": "org_000136",
+      "organization_name": "River Falls Robotics",
+      "suggested_asset_name": "opp_000188_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000136_logo"
+    },
+    {
+      "opportunity_id": "opp_000189",
+      "opportunity_name": "STEAM",
+      "organization_id": "org_000137",
+      "organization_name": "Saline Area Schools",
+      "suggested_asset_name": "opp_000189_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000137_logo"
+    },
+    {
+      "opportunity_id": "opp_000190",
+      "opportunity_name": "The 2026-2027 National Debate Club (Competitive Team)",
+      "organization_id": "org_000138",
+      "organization_name": "Capitol Debate",
+      "suggested_asset_name": "opp_000190_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000138_logo"
+    },
+    {
+      "opportunity_id": "opp_000191",
+      "opportunity_name": "The Science Club",
+      "organization_id": "org_000139",
+      "organization_name": "The Science Club",
+      "suggested_asset_name": "opp_000191_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000139_logo"
+    },
+    {
+      "opportunity_id": "opp_000192",
+      "opportunity_name": "Young Entrepreneur Club",
+      "organization_id": "org_000140",
+      "organization_name": "Young Entrepreneur Club",
+      "suggested_asset_name": "opp_000192_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000140_logo"
+    },
+    {
+      "opportunity_id": "opp_000193",
+      "opportunity_name": "Engineering Day Event",
+      "organization_id": "org_000141",
+      "organization_name": "University of Utah",
+      "suggested_asset_name": "opp_000193_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000141_logo"
+    },
+    {
+      "opportunity_id": "opp_000194",
+      "opportunity_name": "High School Science Day",
+      "organization_id": "org_000142",
+      "organization_name": "West Virginia Space Grant Consortium",
+      "suggested_asset_name": "opp_000194_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000142_logo"
+    },
+    {
+      "opportunity_id": "opp_000195",
+      "opportunity_name": "NYSCI Teen & STEM Night Events",
+      "organization_id": "org_000143",
+      "organization_name": "New York Hall of Science",
+      "suggested_asset_name": "opp_000195_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000143_logo"
+    },
+    {
+      "opportunity_id": "opp_000196",
+      "opportunity_name": "Super Saturday STEM Expo",
+      "organization_id": "org_000144",
+      "organization_name": "Super Saturday STEM Expo",
+      "suggested_asset_name": "opp_000196_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000144_logo"
+    },
+    {
+      "opportunity_id": "opp_000197",
+      "opportunity_name": "Teen Tech Conference",
+      "organization_id": "org_000145",
+      "organization_name": "Teen Tech Conference",
+      "suggested_asset_name": "opp_000197_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000145_logo"
+    },
+    {
+      "opportunity_id": "opp_000198",
+      "opportunity_name": "YOUTH ENTREPRENEUR SUMMIT",
+      "organization_id": "org_000146",
+      "organization_name": "Youth Entrepreneur Summit",
+      "suggested_asset_name": "opp_000198_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000146_logo"
+    },
+    {
+      "opportunity_id": "opp_000199",
+      "opportunity_name": "Youth Entrepreneurship Summit 2026",
+      "organization_id": "org_000147",
+      "organization_name": "iStart Valley",
+      "suggested_asset_name": "opp_000199_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000147_logo"
+    },
+    {
+      "opportunity_id": "opp_000200",
+      "opportunity_name": "YouthBridge-NY Fellowship",
+      "organization_id": "org_000148",
+      "organization_name": "YouthBridge-NY",
+      "suggested_asset_name": "opp_000200_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000148_logo"
+    },
+    {
+      "opportunity_id": "opp_000201",
+      "opportunity_name": "UNICEF Innocenti Youth Fellowship",
+      "organization_id": "org_000149",
+      "organization_name": "UNICEF",
+      "suggested_asset_name": "opp_000201_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000149_logo"
+    },
+    {
+      "opportunity_id": "opp_000202",
+      "opportunity_name": "Young Leaders Fellowship: Applications Open!",
+      "organization_id": "org_000150",
+      "organization_name": "Coalition for Good Schools",
+      "suggested_asset_name": "opp_000202_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000150_logo"
+    },
+    {
+      "opportunity_id": "opp_000203",
+      "opportunity_name": "Youth Board and Youth Fellows Program!",
+      "organization_id": "org_000151",
+      "organization_name": "World Affairs Council of Pittsburgh",
+      "suggested_asset_name": "opp_000203_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000151_logo"
+    },
+    {
+      "opportunity_id": "opp_000204",
+      "opportunity_name": "YRI Fellowship",
+      "organization_id": "org_000152",
+      "organization_name": "Youth Research Initiative",
+      "suggested_asset_name": "opp_000204_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000152_logo"
+    },
+    {
+      "opportunity_id": "opp_000205",
+      "opportunity_name": "JA NextGen Tech Series",
+      "organization_id": "org_000153",
+      "organization_name": "Junior Achievement of New Jersey",
+      "suggested_asset_name": "opp_000205_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000153_logo"
+    },
+    {
+      "opportunity_id": "opp_000206",
+      "opportunity_name": "High School Internship Program (HIP)",
+      "organization_id": "org_000020",
+      "organization_name": "University of Maryland",
+      "suggested_asset_name": "opp_000206_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000020_logo"
+    },
+    {
+      "opportunity_id": "opp_000207",
+      "opportunity_name": "Alabaster Teen Council",
+      "organization_id": "org_000154",
+      "organization_name": "City of Alabaster",
+      "suggested_asset_name": "opp_000207_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000154_logo"
+    },
+    {
+      "opportunity_id": "opp_000208",
+      "opportunity_name": "CCSWG Youth Advisory Council",
+      "organization_id": "org_000155",
+      "organization_name": "California Commission on the Status of Women and Girls",
+      "suggested_asset_name": "opp_000208_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000155_logo"
+    },
+    {
+      "opportunity_id": "opp_000209",
+      "opportunity_name": "Houston Mayor's Youth Council",
+      "organization_id": "org_000156",
+      "organization_name": "City of Houston",
+      "suggested_asset_name": "opp_000209_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000156_logo"
+    },
+    {
+      "opportunity_id": "opp_000210",
+      "opportunity_name": "Future Leaders Internship Initiative (FLii)",
+      "organization_id": "org_000157",
+      "organization_name": "Delaware Department of State",
+      "suggested_asset_name": "opp_000210_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000157_logo"
+    },
+    {
+      "opportunity_id": "opp_000211",
+      "opportunity_name": "Mayor's Youth Advisory Council (MYAC)",
+      "organization_id": "org_000158",
+      "organization_name": "City of Fontana",
+      "suggested_asset_name": "opp_000211_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000158_logo"
+    },
+    {
+      "opportunity_id": "opp_000212",
+      "opportunity_name": "Mayor’s Youth Leadership Council",
+      "organization_id": "org_000159",
+      "organization_name": "Mayor's Community Council of Youth",
+      "suggested_asset_name": "opp_000212_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000159_logo"
+    },
+    {
+      "opportunity_id": "opp_000213",
+      "opportunity_name": "New York State Governor's Youth Council",
+      "organization_id": "org_000160",
+      "organization_name": "New York State Youth Leadership Council",
+      "suggested_asset_name": "opp_000213_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000160_logo"
+    },
+    {
+      "opportunity_id": "opp_000214",
+      "opportunity_name": "Youth Leadership Council",
+      "organization_id": "org_000161",
+      "organization_name": "Make-A-Wish",
+      "suggested_asset_name": "opp_000214_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000161_logo"
+    },
+    {
+      "opportunity_id": "opp_000215",
+      "opportunity_name": "Community Foundation Scholarship",
+      "organization_id": "org_000162",
+      "organization_name": "Middletown Community Foundation",
+      "suggested_asset_name": "opp_000215_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000162_logo"
+    },
+    {
+      "opportunity_id": "opp_000216",
+      "opportunity_name": "Ethel Cuff Black Scholarship",
+      "organization_id": "org_000163",
+      "organization_name": "Middletown (DE) Alumnae Chapter, Delta Sigma Theta Sorority",
+      "suggested_asset_name": "opp_000216_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000163_logo"
+    },
+    {
+      "opportunity_id": "opp_000217",
+      "opportunity_name": "ScholarSHPE",
+      "organization_id": "org_000164",
+      "organization_name": "Society of Hispanic Professional Engineers",
+      "suggested_asset_name": "opp_000217_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000164_logo"
+    },
+    {
+      "opportunity_id": "opp_000218",
+      "opportunity_name": "STEM Scholarship",
+      "organization_id": "org_000163",
+      "organization_name": "Middletown (DE) Alumnae Chapter, Delta Sigma Theta Sorority",
+      "suggested_asset_name": "opp_000218_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000163_logo"
+    },
+    {
+      "opportunity_id": "opp_000219",
+      "opportunity_name": "Junior Volunteer Program",
+      "organization_id": "org_000165",
+      "organization_name": "University of Florida",
+      "suggested_asset_name": "opp_000219_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000165_logo"
+    },
+    {
+      "opportunity_id": "opp_000220",
+      "opportunity_name": "Teen Volunteer Program",
+      "organization_id": "org_000166",
+      "organization_name": "National Museum of the Marine Corps",
+      "suggested_asset_name": "opp_000220_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000166_logo"
+    },
+    {
+      "opportunity_id": "opp_000221",
+      "opportunity_name": "Teen Volunteer Program",
+      "organization_id": "org_000167",
+      "organization_name": "Winterthur Museum, Garden & Library",
+      "suggested_asset_name": "opp_000221_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000167_logo"
+    },
+    {
+      "opportunity_id": "opp_000222",
+      "opportunity_name": "Teen Volunteers",
+      "organization_id": "org_000168",
+      "organization_name": "Smithsonian Institution",
+      "suggested_asset_name": "opp_000222_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000168_logo"
+    },
+    {
+      "opportunity_id": "opp_000223",
+      "opportunity_name": "VIP Volunteer",
+      "organization_id": "org_000169",
+      "organization_name": "Explore Children's Museum",
+      "suggested_asset_name": "opp_000223_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000169_logo"
+    },
+    {
+      "opportunity_id": "opp_000224",
+      "opportunity_name": "Volunteering in Delaware Valley",
+      "organization_id": "org_000170",
+      "organization_name": "Nemours Children's Health",
+      "suggested_asset_name": "opp_000224_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000170_logo"
+    },
+    {
+      "opportunity_id": "opp_000225",
+      "opportunity_name": "Zooteens: Teen Volunteer Program",
+      "organization_id": "org_000171",
+      "organization_name": "The Living Desert Zoo and Gardens",
+      "suggested_asset_name": "opp_000225_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000171_logo"
+    },
+    {
+      "opportunity_id": "opp_000226",
+      "opportunity_name": "Engineering Design Workshop",
+      "organization_id": "org_000060",
+      "organization_name": "Lemelson-MIT Program",
+      "suggested_asset_name": "opp_000226_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000060_logo"
+    },
+    {
+      "opportunity_id": "opp_000227",
+      "opportunity_name": "Intro to Engineering Workshop",
+      "organization_id": "org_000172",
+      "organization_name": "Northeastern University",
+      "suggested_asset_name": "opp_000227_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000172_logo"
+    },
+    {
+      "opportunity_id": "opp_000228",
+      "opportunity_name": "Summer Engineering Academy",
+      "organization_id": "org_000173",
+      "organization_name": "Chapman University",
+      "suggested_asset_name": "opp_000228_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000173_logo"
+    },
+    {
+      "opportunity_id": "opp_000229",
+      "opportunity_name": "Teen Auto Workshop",
+      "organization_id": "org_000174",
+      "organization_name": "Petersen Automotive Museum",
+      "suggested_asset_name": "opp_000229_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000174_logo"
+    },
+    {
+      "opportunity_id": "opp_000230",
+      "opportunity_name": "Teen Studio",
+      "organization_id": "org_000175",
+      "organization_name": "Georgia Museum of Art",
+      "suggested_asset_name": "opp_000230_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000175_logo"
+    },
+    {
+      "opportunity_id": "opp_000231",
+      "opportunity_name": "Teen Studio",
+      "organization_id": "org_000176",
+      "organization_name": "Denver Art Museum",
+      "suggested_asset_name": "opp_000231_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000176_logo"
+    },
+    {
+      "opportunity_id": "opp_000232",
+      "opportunity_name": "Teen Writers Workshop",
+      "organization_id": "org_000033",
+      "organization_name": "North Carolina State University",
+      "suggested_asset_name": "opp_000232_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000033_logo"
+    },
+    {
+      "opportunity_id": "opp_000233",
+      "opportunity_name": "Writers Workshop for High School",
+      "organization_id": "org_000177",
+      "organization_name": "University of Washington",
+      "suggested_asset_name": "opp_000233_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000177_logo"
+    },
+    {
+      "opportunity_id": "opp_000234",
+      "opportunity_name": "Yale Young Writers' Workshop",
+      "organization_id": "org_000007",
+      "organization_name": "Yale University",
+      "suggested_asset_name": "opp_000234_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000007_logo"
+    },
+    {
+      "opportunity_id": "opp_000235",
+      "opportunity_name": "Midnight Virtual Hackathon [August]",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000235_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000236",
+      "opportunity_name": "PEC HACKS 4.0",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000236_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000237",
+      "opportunity_name": "Global Hack Week: Data",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000237_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000238",
+      "opportunity_name": "HackRice",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000238_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000239",
+      "opportunity_name": "HackMTY 2026",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000239_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000240",
+      "opportunity_name": "HackWesTX 26",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000240_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000241",
+      "opportunity_name": "HackHers @GSU",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000241_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000242",
+      "opportunity_name": "Hack the North",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000242_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000243",
+      "opportunity_name": "VTHacks 14",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000243_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000244",
+      "opportunity_name": "HopHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000244_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000245",
+      "opportunity_name": "SteelHacks XIII",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000245_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000246",
+      "opportunity_name": "HackNex Season 2",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000246_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000247",
+      "opportunity_name": "HackGT 13",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000247_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000248",
+      "opportunity_name": "ShellHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000248_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000249",
+      "opportunity_name": "DivHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000249_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000250",
+      "opportunity_name": "OwlHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000250_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000251",
+      "opportunity_name": "hackUMBC",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000251_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000252",
+      "opportunity_name": "BigRed//Hacks 2026",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000252_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000253",
+      "opportunity_name": "Hack Dearborn 5: Conjure Reality",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000253_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000254",
+      "opportunity_name": "Rowdy Hacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000254_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000255",
+      "opportunity_name": "MHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000255_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000256",
+      "opportunity_name": "GirlHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000256_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000257",
+      "opportunity_name": "Innohacks 4.0",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000257_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000258",
+      "opportunity_name": "HackNC",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000258_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000259",
+      "opportunity_name": "SBUHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000259_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000260",
+      "opportunity_name": "Hack Knight",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000260_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000261",
+      "opportunity_name": "Knight Hacks IX",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000261_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000262",
+      "opportunity_name": "CodeRED Orion",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000262_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000263",
+      "opportunity_name": "SwampHacks XII",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000263_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000264",
+      "opportunity_name": "Hack the Valley",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000264_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000265",
+      "opportunity_name": "HackTX 26",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000265_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000266",
+      "opportunity_name": "LA Hacks AI Hackathon 2026",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000266_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000267",
+      "opportunity_name": "hackCBS 9.O",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000267_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000268",
+      "opportunity_name": "HackUTD",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000268_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000269",
+      "opportunity_name": "HackRPI 2026",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000269_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000270",
+      "opportunity_name": "MakeCU",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000270_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000271",
+      "opportunity_name": "HackUMass",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000271_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000272",
+      "opportunity_name": "DurHack",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000272_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000273",
+      "opportunity_name": "DeltaHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000273_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000274",
+      "opportunity_name": "UofTHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000274_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000275",
+      "opportunity_name": "uOttaHack 9",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000275_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000276",
+      "opportunity_name": "nwHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000276_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000277",
+      "opportunity_name": "Hackville 2027",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000277_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000278",
+      "opportunity_name": "Hoya Hacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000278_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000279",
+      "opportunity_name": "ElleHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000279_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000280",
+      "opportunity_name": "Hack@Brown 2027",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000280_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000281",
+      "opportunity_name": "UGAHacks",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000281_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000282",
+      "opportunity_name": "Hack_NCState",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000282_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000283",
+      "opportunity_name": "InnovateHer",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000283_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000284",
+      "opportunity_name": "SpartaHack",
+      "organization_id": null,
+      "organization_name": null,
+      "suggested_asset_name": "opp_000284_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": null
+    },
+    {
+      "opportunity_id": "opp_000285",
+      "opportunity_name": "Trane Technologies Charitable Foundation Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000285_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000286",
+      "opportunity_name": "Penn Mutual Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000286_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000287",
+      "opportunity_name": "Legacy Trades Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000287_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000288",
+      "opportunity_name": "Henry Moskowitz Future Leaders Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000288_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000289",
+      "opportunity_name": "The Allen Kaiden Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000289_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000290",
+      "opportunity_name": "JAN-PRO Your Family First Scholarship™ Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000290_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000291",
+      "opportunity_name": "Jeff Banker Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000291_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000292",
+      "opportunity_name": "KRONOS Louisiana Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000292_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000293",
+      "opportunity_name": "Prince George’s County, Maryland Youth AI Mastery Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000293_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000294",
+      "opportunity_name": "Trader Joe’s Vernon Boykin Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000294_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000295",
+      "opportunity_name": "Local 2790 Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000295_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000296",
+      "opportunity_name": "Precision Drilling Employees’ Dependent Children Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000296_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000297",
+      "opportunity_name": "Twin Orchard Country Club Scholarship Program Honoring Joseph H. Goldberg",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000297_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000298",
+      "opportunity_name": "William Clay Ford, Jr. Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000298_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000299",
+      "opportunity_name": "Corient Family Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000299_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000300",
+      "opportunity_name": "Roosevelt Paper Company Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000300_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000301",
+      "opportunity_name": "Newe Numa Scholarship Foundation",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000301_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000302",
+      "opportunity_name": "Tailored Brands Family Educational Foundation Scholarship – US",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000302_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000303",
+      "opportunity_name": "Economy Mud Products Education Assistance Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000303_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000304",
+      "opportunity_name": "Dr. Lester Aronberg and Tony B. Scholarship and LACO’s Leaders for the Future: Education Assistance Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000304_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000305",
+      "opportunity_name": "Reita and Deane Cruze Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000305_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000306",
+      "opportunity_name": "Survivors of Torture Scholarship Fund",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000306_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000307",
+      "opportunity_name": "Home Market Foods Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000307_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000308",
+      "opportunity_name": "IN2WORK Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000308_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000309",
+      "opportunity_name": "Joseph J. Grano, Jr. Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000309_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000310",
+      "opportunity_name": "National Vision College Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000310_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000311",
+      "opportunity_name": "UBS Scholarship Program for Employees’ Children",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000311_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000312",
+      "opportunity_name": "“Children’s Children” Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000312_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000313",
+      "opportunity_name": "AIM Education Assistance Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000313_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000314",
+      "opportunity_name": "Citizens Scholars Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000314_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000315",
+      "opportunity_name": "John and Barbara Grimmer Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000315_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000316",
+      "opportunity_name": "Team Car Care Employee and Dependent Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000316_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000317",
+      "opportunity_name": "Portillo’s Team Member Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000317_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000318",
+      "opportunity_name": "Sims Limited Education Assistance Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000318_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000319",
+      "opportunity_name": "Steve Porter Memorial Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000319_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000320",
+      "opportunity_name": "Forestry Suppliers Educational Assistance Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000320_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000321",
+      "opportunity_name": "Legends of Basketball Dave DeBusschere and Earl Lloyd Scholarships",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000321_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000322",
+      "opportunity_name": "MMM Multihealth Puerto Rico Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000322_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000323",
+      "opportunity_name": "NW Natural Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000323_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000324",
+      "opportunity_name": "Soultz Family ‘Ready to Work’ Skilled Trade Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000324_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000325",
+      "opportunity_name": "The Master Lock Company Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000325_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000326",
+      "opportunity_name": "Corewell Health William Beaumont University Hospital Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000326_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000327",
+      "opportunity_name": "1898 Foundation Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000327_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000328",
+      "opportunity_name": "Bruce A. Houser and Thomas A. Nicholas Scholarship Fund",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000328_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000329",
+      "opportunity_name": "Hydro – ENA Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000329_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000330",
+      "opportunity_name": "John O. Whitney Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000330_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000331",
+      "opportunity_name": "Price Chopper/Market 32 and Northeast Shared Services Teammate Scholarships",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000331_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000332",
+      "opportunity_name": "Richard and Vivian Mershon Scholarships for Academic Excellence",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000332_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000333",
+      "opportunity_name": "Ducommun Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000333_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000334",
+      "opportunity_name": "Fleetwood Bank Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000334_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000335",
+      "opportunity_name": "Ingredion Educational Foundation Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000335_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000336",
+      "opportunity_name": "Canadian Pacific Kansas City U.S. Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000336_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000337",
+      "opportunity_name": "Penguin Random House Scholars Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000337_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000338",
+      "opportunity_name": "The Clausen Family Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000338_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000339",
+      "opportunity_name": "CentroMotion Dependent Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000339_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000340",
+      "opportunity_name": "Delta Sonic Car Wash Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000340_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000341",
+      "opportunity_name": "Raul and Gloria Andrade Scholarship",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000341_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000342",
+      "opportunity_name": "Fred Hack Memorial Scholarship Program",
+      "organization_id": "org_000266",
+      "organization_name": "Scholarship America",
+      "suggested_asset_name": "opp_000342_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000266_logo"
+    },
+    {
+      "opportunity_id": "opp_000343",
+      "opportunity_name": "Organizational Skills with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000343_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000344",
+      "opportunity_name": "Recording Studio Orientation",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000344_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000345",
+      "opportunity_name": "Sewing Basics",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000345_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000346",
+      "opportunity_name": "College Entrance Writing PIQ",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000346_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000347",
+      "opportunity_name": "Cricut Custom Design",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000347_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000348",
+      "opportunity_name": "SAT Test Prep with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000348_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000349",
+      "opportunity_name": "Student Support Session with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000349_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000350",
+      "opportunity_name": "SAT Test Prep with Study Smart Tutors (Class A)",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000350_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000351",
+      "opportunity_name": "FAFSA—The Key to Unlocking Financial Aid",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000351_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000352",
+      "opportunity_name": "Go For All",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000352_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000353",
+      "opportunity_name": "Interview Skills with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000353_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000354",
+      "opportunity_name": "Stress Management and Self Care with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000354_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000355",
+      "opportunity_name": "Basic Printmaking",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000355_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000356",
+      "opportunity_name": "Biblio Bistro",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000356_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000357",
+      "opportunity_name": "Scented Slime Time",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000357_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000358",
+      "opportunity_name": "Faux Stained Glass Calaveras",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000358_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000359",
+      "opportunity_name": "Advocating for Change with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000359_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000360",
+      "opportunity_name": "Character Design with Robert Liu-Trujillo",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000360_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000361",
+      "opportunity_name": "Painted Mini Pumpkins",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000361_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000362",
+      "opportunity_name": "Cajón Drum Circle with Cunamacué",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000362_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000363",
+      "opportunity_name": "How to Draw K-pop & Demon Hunters",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000363_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000364",
+      "opportunity_name": "Reduce Plastic Waste Through Creative Reuse",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000364_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000365",
+      "opportunity_name": "Book Bedazzling",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000365_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000366",
+      "opportunity_name": "Writing Memoir Through a Speculative Lens",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000366_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000367",
+      "opportunity_name": "Organizational Skills with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000367_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000368",
+      "opportunity_name": "Recording Studio Orientation",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000368_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000369",
+      "opportunity_name": "Sewing Basics",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000369_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000370",
+      "opportunity_name": "Cricut Custom Design",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000370_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000371",
+      "opportunity_name": "SAT Test Prep with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000371_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000372",
+      "opportunity_name": "Student Support Session with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000372_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000373",
+      "opportunity_name": "Biblio Bistro",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000373_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000374",
+      "opportunity_name": "Writing Memoir through a Speculative Lens",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000374_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000375",
+      "opportunity_name": "Recording Studio Orientation",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000375_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000376",
+      "opportunity_name": "Sewing Basics",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000376_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000377",
+      "opportunity_name": "Cricut Custom Design",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000377_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000378",
+      "opportunity_name": "Student Support Session with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000378_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000379",
+      "opportunity_name": "Recording Studio Orientation",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000379_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000380",
+      "opportunity_name": "Sewing Basics",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000380_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000381",
+      "opportunity_name": "Cricut Custom Design",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000381_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000382",
+      "opportunity_name": "Student Support Session with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000382_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000383",
+      "opportunity_name": "Recording Studio Orientation",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000383_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000384",
+      "opportunity_name": "Sewing Basics",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000384_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000385",
+      "opportunity_name": "Cricut Custom Design",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000385_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    },
+    {
+      "opportunity_id": "opp_000386",
+      "opportunity_name": "Student Support Session with Study Smart Tutors",
+      "organization_id": "org_000267",
+      "organization_name": "San Francisco Public Library",
+      "suggested_asset_name": "opp_000386_visual",
+      "current_image_asset_name": null,
+      "status": "Missing",
+      "suggested_organization_logo_asset_name": "org_000267_logo"
+    }
+  ]
+}

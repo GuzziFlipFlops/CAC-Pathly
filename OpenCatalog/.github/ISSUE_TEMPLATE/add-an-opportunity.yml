@@ -1,0 +1,63 @@
+name: Add an opportunity
+description: Suggest a competition, program, scholarship, or place that's missing.
+title: "Add: "
+labels: ["new record"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Delaware Tech New Castle County Science Fair 2027
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official page
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - Competition
+        - Hackathon
+        - Research
+        - Internship
+        - Scholarship
+        - Program
+        - Camp
+        - Workshop
+        - Event
+        - Volunteering
+        - Leadership
+        - Club
+        - Fellowship
+        - Grant
+        - Place (library, makerspace, lab, museum…)
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: The deadline or the event date, if the official page lists one (YYYY-MM-DD).
+      placeholder: 2027-04-07 (event date)
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: City and state, or "Online".
+      placeholder: Newark, DE
+  - type: input
+    id: grades
+    attributes:
+      label: Who can join (grades)
+      placeholder: 9-12
+  - type: textarea
+    id: details
+    attributes:
+      label: Short note (optional)
+      description: Cost, how to apply, or anything else the official page says. Only include what the official page says.

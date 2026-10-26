@@ -1,0 +1,35 @@
+name: Fix a record
+description: Something in the catalog is wrong or out of date.
+title: "Fix: "
+labels: ["fix"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID or name
+      description: The ID looks like opp_000094 or place_000051. The name is fine if you don't know it.
+      placeholder: opp_000094 · Regeneron ISEF
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Which field is wrong, and what should it say?
+      placeholder: The deadline should be 2027-03-09, not null.
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Changed fields (from the form)
+      description: Optional. The suggested values as JSON, filled in by the website form.
+      render: json
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: A link to the official page that shows the correct information.
+      placeholder: https://
+    validations:
+      required: true

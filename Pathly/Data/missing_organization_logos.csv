@@ -1,0 +1,132 @@
+organization_id,organization_name,organization_type,website,suggested_logo_asset_name,linked_opportunity_count,linked_place_count,current_logo_asset_name,status
+org_000007,Yale University,University,https://www.yale.edu,org_000007_logo,2,1,,Missing
+org_000020,University of Maryland,University,https://www.umd.edu,org_000020_logo,1,1,,Missing
+org_000032,New York University,University,https://www.nyu.edu,org_000032_logo,1,1,,Missing
+org_000033,North Carolina State University,University,https://www.ncsu.edu,org_000033_logo,1,1,,Missing
+org_000034,University of North Dakota,University,https://und.edu,org_000034_logo,1,1,,Missing
+org_000054,"Nova Labs, Inc.",Nonprofit,https://www.nova-labs.org,org_000054_logo,1,1,,Missing
+org_000055,George Mason University,University,https://www.gmu.edu,org_000055_logo,1,1,org_000055_logo,Available
+org_000056,Toshiba America Foundation,Foundation,https://toshiba.com/taf/,org_000056_logo,1,0,,Missing
+org_000057,FIRST,Nonprofit,https://www.firstinspires.org,org_000057_logo,4,287,org_000057_logo,Available
+org_000058,BAE Systems,Company,https://www.baesystems.com,org_000058_logo,1,0,org_000058_logo,Available
+org_000059,Boston Scientific,Company,https://www.bostonscientific.com,org_000059_logo,1,0,org_000059_logo,Available
+org_000060,Lemelson-MIT Program,University,https://lemelson.mit.edu,org_000060_logo,2,0,,Missing
+org_000061,American Institute of Aeronautics and Astronautics,Professional Organization,https://www.aiaa.org,org_000061_logo,1,0,org_000061_logo,Available
+org_000062,National Earth Science Teachers Association,Professional Organization,https://nestanet.org,org_000062_logo,1,0,,Missing
+org_000063,IEEE,Professional Organization,https://www.ieee.org,org_000063_logo,1,0,org_000063_logo,Available
+org_000064,Delaware Division of the Arts,Government,https://arts.delaware.gov,org_000064_logo,1,0,,Missing
+org_000065,Captain Planet Foundation,Foundation,https://captainplanetfoundation.org,org_000065_logo,1,0,org_000065_logo,Available
+org_000066,University of Delaware Cooperative Extension,University,https://www.udel.edu/canr/cooperative-extension/,org_000066_logo,1,0,,Missing
+org_000067,Delaware Pathways,Government,https://delawarepathways.org,org_000067_logo,1,0,,Missing
+org_000068,Volunteer Delaware,Government,https://volunteer.delaware.gov,org_000068_logo,1,0,,Missing
+org_000069,DonorsChoose,Nonprofit,https://www.donorschoose.org,org_000069_logo,1,0,,Missing
+org_000070,Walmart,Company,https://www.walmart.org,org_000070_logo,1,0,,Missing
+org_000071,The Awesome Foundation,Foundation,https://www.awesomefoundation.org,org_000071_logo,1,0,,Missing
+org_000072,3M and Discovery Education,Company,https://youngscientistlab.com/challenge,org_000072_logo,1,0,org_000072_logo,Available
+org_000073,Aerospace Industries Association,Professional Organization,https://rocketcontest.org/,org_000073_logo,1,0,org_000073_logo,Available
+org_000074,Air & Space Forces Association,Nonprofit,https://www.uscyberpatriot.org/,org_000074_logo,1,0,org_000074_logo,Available
+org_000075,Alliance for Young Artists & Writers,Nonprofit,https://www.artandwriting.org/,org_000075_logo,1,0,org_000075_logo,Available
+org_000076,American Association of Physics Teachers,Professional Organization,https://www.aapt.org/physicsteam/,org_000076_logo,2,0,org_000076_logo,Available
+org_000077,American Chemical Society,Professional Organization,https://www.acs.org/education/olympiad.html,org_000077_logo,2,0,org_000077_logo,Available
+org_000078,American Computer Science League,Other,https://www.acsl.org/,org_000078_logo,1,0,org_000078_logo,Available
+org_000079,American Foreign Service Association,Professional Organization,https://afsa.org/essay-contest,org_000079_logo,1,0,org_000079_logo,Available
+org_000080,Apple,Company,https://developer.apple.com/swift-student-challenge/,org_000080_logo,1,0,org_000080_logo,Available
+org_000081,Bank of America,Company,https://about.bankofamerica.com/en/making-an-impact/student-leaders,org_000081_logo,1,0,org_000081_logo,Available
+org_000082,Blue Ocean Competition,Other,https://blueoceancompetition.org/,org_000082_logo,1,0,org_000082_logo,Available
+org_000083,Boston University,University,https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/,org_000083_logo,2,0,org_000083_logo,Available
+org_000084,Breakthrough Prize Foundation,Nonprofit,https://breakthroughjuniorchallenge.org/,org_000084_logo,1,0,org_000084_logo,Available
+org_000085,C-SPAN,Company,https://www.studentcam.org/,org_000085_logo,1,0,org_000085_logo,Available
+org_000086,Carnegie Mellon University,University,https://picoctf.org/,org_000086_logo,2,0,,Missing
+org_000087,Center for Excellence in Education,Other,https://www.usabo-trc.org/,org_000087_logo,4,0,org_000087_logo,Available
+org_000088,Congressional App Challenge,Nonprofit,https://www.congressionalappchallenge.us/,org_000088_logo,1,0,org_000088_logo,Available
+org_000089,Conrad Foundation,Nonprofit,https://www.conradchallenge.org/,org_000089_logo,1,0,,Missing
+org_000090,Council for Economic Education,Nonprofit,https://www.councilforeconed.org/national-economics-challenge/,org_000090_logo,2,0,org_000090_logo,Available
+org_000091,DECA,Nonprofit,https://www.deca.org/,org_000091_logo,1,0,org_000091_logo,Available
+org_000092,Davidson Institute,Nonprofit,https://www.davidsongifted.org/gifted-programs/fellows-scholarship/,org_000092_logo,1,0,org_000092_logo,Available
+org_000093,EXPLR,Company,https://www.nationalstemfestival.com/,org_000093_logo,1,0,,Missing
+org_000094,Future Business Leaders of America,Nonprofit,https://www.fbla.org/,org_000094_logo,1,0,org_000094_logo,Available
+org_000095,Genes in Space,Other,https://www.genesinspace.org/,org_000095_logo,1,0,org_000095_logo,Available
+org_000096,Hack Club,Other,https://hackclub.com/programs/,org_000096_logo,18,0,org_000096_logo,Available
+org_000097,JSHS,Nonprofit,https://jshs.org/,org_000097_logo,1,0,org_000097_logo,Available
+org_000098,John F. Kennedy Library Foundation,Nonprofit,https://www.jfklibrary.org/essay-contest,org_000098_logo,1,0,,Missing
+org_000099,KISS Institute for Practical Robotics,Nonprofit,https://www.botball.org/,org_000099_logo,1,0,org_000099_logo,Available
+org_000100,MATE Inspiration for Innovation,Other,https://materovcompetition.org/,org_000100_logo,1,0,,Missing
+org_000101,MIT,University,https://mites.mit.edu/discover-mites/mites-summer/,org_000101_logo,1,0,org_000101_logo,Available
+org_000102,MIT Lincoln Laboratory,University,https://bwsi.mit.edu/,org_000102_logo,1,0,org_000102_logo,Available
+org_000103,Mathematical Association of America,Professional Organization,https://maa.org/student-programs/amc/,org_000103_logo,6,0,org_000103_logo,Available
+org_000104,NASA,Government,https://www.nasa.gov/stem/app-development-challenge/,org_000104_logo,7,0,org_000104_logo,Available
+org_000105,National Endowment for the Arts,Government,https://www.poetryoutloud.org/,org_000105_logo,1,0,org_000105_logo,Available
+org_000106,National History Day,Nonprofit,https://nhd.org/,org_000106_logo,1,0,org_000106_logo,Available
+org_000107,National Institutes of Health,Government,https://www.training.nih.gov/research-training/hs/,org_000107_logo,1,0,org_000107_logo,Available
+org_000108,National Speech & Debate Association,Nonprofit,https://www.speechanddebate.org/nationals/,org_000108_logo,1,0,org_000108_logo,Available
+org_000109,Real World Design Challenge,Other,https://www.realworlddesignchallenge.org/,org_000109_logo,1,0,,Missing
+org_000110,RoboCupJunior,Nonprofit,https://junior.robocup.org/,org_000110_logo,1,0,org_000110_logo,Available
+org_000111,RoboNation,Nonprofit,https://seaperch.org/,org_000111_logo,1,0,,Missing
+org_000112,Robotics Education & Competition Foundation,Nonprofit,https://recf.org/aerial-drone-competition/,org_000112_logo,1,0,,Missing
+org_000113,Rockefeller University,University,https://www.rockefeller.edu/outreach/ssrp/,org_000113_logo,1,0,,Missing
+org_000114,Science Olympiad,Nonprofit,https://www.soinc.org/,org_000114_logo,1,0,org_000114_logo,Available
+org_000115,SkillsUSA,Nonprofit,https://www.skillsusa.org/,org_000115_logo,1,0,org_000115_logo,Available
+org_000116,Society for Science,Nonprofit,https://www.societyforscience.org/isef/,org_000116_logo,3,0,org_000116_logo,Available
+org_000117,Stanford University,University,https://simr.stanford.edu/,org_000117_logo,1,0,org_000117_logo,Available
+org_000118,Stony Brook University,University,https://www.stonybrook.edu/simons/,org_000118_logo,2,0,org_000118_logo,Available
+org_000119,Summer Science Program,Other,https://summerscience.org/,org_000119_logo,1,0,,Missing
+org_000120,Technovation,Nonprofit,https://technovationchallenge.org/,org_000120_logo,1,0,org_000120_logo,Available
+org_000121,Texas Tech University,University,https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/,org_000121_logo,1,0,,Missing
+org_000122,The American Legion,Nonprofit,https://www.legion.org/oratorical,org_000122_logo,1,0,,Missing
+org_000123,Toshiba / NSTA,Professional Organization,https://www.exploravision.org/,org_000123_logo,1,0,,Missing
+org_000124,U.S. Army Educational Outreach Program,Government,https://www.ecybermission.com/,org_000124_logo,2,0,org_000124_logo,Available
+org_000125,U.S. Department of Energy,Government,https://science.osti.gov/wdts/nsb,org_000125_logo,1,0,org_000125_logo,Available
+org_000126,USACO,Nonprofit,https://usaco.org/,org_000126_logo,1,0,,Missing
+org_000127,"University of California, Santa Barbara",University,https://www.summer.ucsb.edu/programs/research-mentorship-program,org_000127_logo,1,0,,Missing
+org_000128,University of Delaware Horn Entrepreneurship,University,https://diamondchallenge.org/,org_000128_logo,1,0,,Missing
+org_000129,VEX Robotics,Company,https://www.vexrobotics.com/official-path,org_000129_logo,2,0,org_000129_logo,Available
+org_000130,Wharton Global Youth Program,University,https://globalyouth.wharton.upenn.edu/competitions/investment-competition/,org_000130_logo,1,0,org_000130_logo,Available
+org_000131,YoungArts,Nonprofit,https://youngarts.org/apply/,org_000131_logo,1,0,,Missing
+org_000132,Colorado State University,University,https://csucybercamp.cs.colostate.edu,org_000132_logo,1,0,,Missing
+org_000133,Indiana University of Pennsylvania,University,https://iup.edu,org_000133_logo,1,0,,Missing
+org_000134,Aviation High School Aero Club,School,https://amcai.org,org_000134_logo,1,0,,Missing
+org_000135,MATHCOUNTS,Nonprofit,https://mathcounts.org,org_000135_logo,1,0,,Missing
+org_000136,River Falls Robotics,Community Organization,https://sites.google.com,org_000136_logo,1,0,,Missing
+org_000137,Saline Area Schools,School,https://salineschools.org,org_000137_logo,1,0,,Missing
+org_000138,Capitol Debate,Company,https://cdadebate.com,org_000138_logo,1,0,,Missing
+org_000139,The Science Club,Nonprofit,https://thescienceclub.org,org_000139_logo,1,0,,Missing
+org_000140,Young Entrepreneur Club,Nonprofit,https://y-e-c.org,org_000140_logo,1,0,,Missing
+org_000141,University of Utah,University,https://price.utah.edu,org_000141_logo,1,0,,Missing
+org_000142,West Virginia Space Grant Consortium,Nonprofit,https://wvspacegrant.org,org_000142_logo,1,0,,Missing
+org_000143,New York Hall of Science,Nonprofit,https://nysci.org,org_000143_logo,1,0,,Missing
+org_000144,Super Saturday STEM Expo,Nonprofit,https://supersaturdaystemexpo.org,org_000144_logo,1,0,,Missing
+org_000145,Teen Tech Conference,Company,https://teentechconference.com,org_000145_logo,1,0,,Missing
+org_000146,Youth Entrepreneur Summit,Company,https://youthentsummit.com,org_000146_logo,1,0,,Missing
+org_000147,iStart Valley,Nonprofit,https://istartvalley.org,org_000147_logo,1,0,,Missing
+org_000148,YouthBridge-NY,Nonprofit,https://youthbridgeny.org,org_000148_logo,1,0,,Missing
+org_000149,UNICEF,Nonprofit,https://unicef.org,org_000149_logo,1,0,,Missing
+org_000150,Coalition for Good Schools,Nonprofit,https://coalitionforgoodschools.org,org_000150_logo,1,0,,Missing
+org_000151,World Affairs Council of Pittsburgh,Nonprofit,https://worldpittsburgh.org,org_000151_logo,1,0,,Missing
+org_000152,Youth Research Initiative,Company,https://yriscience.com,org_000152_logo,1,0,,Missing
+org_000153,Junior Achievement of New Jersey,Nonprofit,https://janj.ja.org,org_000153_logo,1,0,,Missing
+org_000154,City of Alabaster,Government,https://cityofalabaster.com,org_000154_logo,1,0,,Missing
+org_000155,California Commission on the Status of Women and Girls,Government,https://women.ca.gov,org_000155_logo,1,0,,Missing
+org_000156,City of Houston,Government,https://houstontx.gov,org_000156_logo,1,0,,Missing
+org_000157,Delaware Department of State,Government,https://sos.delaware.gov,org_000157_logo,1,0,,Missing
+org_000158,City of Fontana,Government,https://fontanaca.gov,org_000158_logo,1,0,,Missing
+org_000159,Mayor's Community Council of Youth,Nonprofit,https://mccoyouth.org,org_000159_logo,1,0,,Missing
+org_000160,New York State Youth Leadership Council,Company,https://nysylc.secure-platform.com,org_000160_logo,1,0,,Missing
+org_000161,Make-A-Wish,Nonprofit,https://wish.org,org_000161_logo,1,0,,Missing
+org_000162,Middletown Community Foundation,Foundation,https://mcfoundation.org,org_000162_logo,1,0,,Missing
+org_000163,"Middletown (DE) Alumnae Chapter, Delta Sigma Theta Sorority",Nonprofit,https://middletowndedst.org,org_000163_logo,2,0,,Missing
+org_000164,Society of Hispanic Professional Engineers,Nonprofit,https://shpe.org,org_000164_logo,1,0,,Missing
+org_000165,University of Florida,University,https://floridamuseum.ufl.edu,org_000165_logo,1,0,,Missing
+org_000166,National Museum of the Marine Corps,Company,https://usmcmuseum.com,org_000166_logo,1,0,,Missing
+org_000167,"Winterthur Museum, Garden & Library",Nonprofit,https://winterthur.org,org_000167_logo,1,0,,Missing
+org_000168,Smithsonian Institution,Government,https://nationalzoo.si.edu,org_000168_logo,1,0,,Missing
+org_000169,Explore Children's Museum,Nonprofit,https://explorefcm.org,org_000169_logo,1,0,,Missing
+org_000170,Nemours Children's Health,Nonprofit,https://nemours.org,org_000170_logo,1,0,,Missing
+org_000171,The Living Desert Zoo and Gardens,Nonprofit,https://livingdesert.org,org_000171_logo,1,0,,Missing
+org_000172,Northeastern University,University,https://stem.northeastern.edu,org_000172_logo,1,0,,Missing
+org_000173,Chapman University,University,https://chapman.edu,org_000173_logo,1,0,,Missing
+org_000174,Petersen Automotive Museum,Nonprofit,https://petersen.org,org_000174_logo,1,0,,Missing
+org_000175,Georgia Museum of Art,Nonprofit,https://georgiamuseum.org,org_000175_logo,1,0,,Missing
+org_000176,Denver Art Museum,Nonprofit,https://denverartmuseum.org,org_000176_logo,1,0,,Missing
+org_000177,University of Washington,University,https://youth-teen.uw.edu,org_000177_logo,1,0,,Missing
+org_000266,Scholarship America,Nonprofit,https://scholarshipamerica.org/,org_000266_logo,58,0,,Missing
+org_000267,San Francisco Public Library,Library,https://sfpl.org,org_000267_logo,44,0,,Missing
